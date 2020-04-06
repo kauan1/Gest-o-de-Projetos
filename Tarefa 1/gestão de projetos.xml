@@ -40,7 +40,7 @@
     <MoveCompletedEndsForward>0</MoveCompletedEndsForward>
     <BaselineForEarnedValue>0</BaselineForEarnedValue>
     <AutoAddNewResourcesAndTasks>1</AutoAddNewResourcesAndTasks>
-    <CurrentDate>2020-04-03T02:27:00</CurrentDate>
+    <CurrentDate>2020-04-06T04:38:00</CurrentDate>
     <MicrosoftProjectServerURL>1</MicrosoftProjectServerURL>
     <Autolink>1</Autolink>
     <NewTaskStartDate>0</NewTaskStartDate>
@@ -174,8 +174,8 @@
             <OutlineLevel>1</OutlineLevel>
             <Priority>500</Priority>
             <Start>2020-04-01T08:00:00</Start>
-            <Finish>2020-05-19T16:59:00</Finish>
-            <Duration>PT392H0M0S</Duration>
+            <Finish>2020-06-16T16:59:00</Finish>
+            <Duration>PT616H0M0S</Duration>
             <DurationFormat>7</DurationFormat>
             <ResumeValid>0</ResumeValid>
             <EffortDriven>0</EffortDriven>
@@ -189,10 +189,10 @@
             <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
             <ExternalTask>0</ExternalTask>
             <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>7</PercentComplete>
+            <PercentComplete>5</PercentComplete>
             <ActualStart>2020-04-01T08:00:00</ActualStart>
-            <ActualDuration>PT27H26M24S</ActualDuration>
-            <RemainingDuration>PT364H33M36S</RemainingDuration>
+            <ActualDuration>PT30H48M0S</ActualDuration>
+            <RemainingDuration>PT585H12M0S</RemainingDuration>
             <ConstraintType>4</ConstraintType>
             <CalendarUID>-1</CalendarUID>
             <ConstraintDate>2020-04-01T08:00:00</ConstraintDate>
@@ -585,6 +585,10 @@
             <HideBar>0</HideBar>
             <Rollup>0</Rollup>
             <EarnedValueMethod>0</EarnedValueMethod>
+            <ExtendedAttribute>
+                <FieldID>188743731</FieldID>
+                <Value>Em andamento</Value>
+            </ExtendedAttribute>
             <Active>1</Active>
             <Manual>0</Manual>
         </Task>
@@ -1432,7 +1436,7 @@
         <Task>
             <UID>31</UID>
             <ID>31</ID>
-            <Name>Fazer charter</Name>
+            <Name>Fazer chapter</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
             <WBS>1.4.1</WBS>
@@ -1747,62 +1751,16 @@
         <Task>
             <UID>38</UID>
             <ID>38</ID>
-            <Name>Entrega do planejamento processos de monitoramento e controle e dos primeiros resultados obtidos</Name>
+            <Name>Entregar planejamento</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
-            <WBS>2</WBS>
-            <OutlineNumber>2</OutlineNumber>
-            <OutlineLevel>1</OutlineLevel>
+            <WBS>1.5</WBS>
+            <OutlineNumber>1.5</OutlineNumber>
+            <OutlineLevel>2</OutlineLevel>
             <Priority>500</Priority>
-            <Start>2020-04-28T08:00:00</Start>
+            <Start>2020-04-24T08:00:00</Start>
             <Finish>2020-04-28T16:59:00</Finish>
-            <Duration>PT8H0M0S</Duration>
-            <DurationFormat>7</DurationFormat>
-            <ResumeValid>0</ResumeValid>
-            <EffortDriven>0</EffortDriven>
-            <Recurring>0</Recurring>
-            <OverAllocated>0</OverAllocated>
-            <Estimated>0</Estimated>
-            <Milestone>0</Milestone>
-            <Summary>0</Summary>
-            <Critical>0</Critical>
-            <IsSubproject>0</IsSubproject>
-            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
-            <ExternalTask>0</ExternalTask>
-            <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT8H0M0S</RemainingDuration>
-            <ConstraintType>4</ConstraintType>
-            <CalendarUID>-1</CalendarUID>
-            <ConstraintDate>2020-04-28T08:00:00</ConstraintDate>
-            <LevelAssignments>0</LevelAssignments>
-            <LevelingCanSplit>0</LevelingCanSplit>
-            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
-            <HideBar>0</HideBar>
-            <Rollup>0</Rollup>
-            <EarnedValueMethod>0</EarnedValueMethod>
-            <PredecessorLink>
-                <PredecessorUID>15</PredecessorUID>
-                <Type>1</Type>
-                <CrossProject>0</CrossProject>
-            </PredecessorLink>
-            <Active>1</Active>
-            <Manual>0</Manual>
-        </Task>
-        <Task>
-            <UID>39</UID>
-            <ID>39</ID>
-            <Name>Entrega de documentos de "evidência objetiva"</Name>
-            <Type>1</Type>
-            <IsNull>0</IsNull>
-            <WBS>3</WBS>
-            <OutlineNumber>3</OutlineNumber>
-            <OutlineLevel>1</OutlineLevel>
-            <Priority>500</Priority>
-            <Start>2020-05-12T08:00:00</Start>
-            <Finish>2020-05-18T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
+            <Duration>PT40H0M0S</Duration>
             <DurationFormat>7</DurationFormat>
             <ResumeValid>0</ResumeValid>
             <EffortDriven>0</EffortDriven>
@@ -1818,10 +1776,9 @@
             <FixedCostAccrual>3</FixedCostAccrual>
             <PercentComplete>0</PercentComplete>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
-            <ConstraintType>4</ConstraintType>
+            <RemainingDuration>PT40H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
-            <ConstraintDate>2020-05-12T08:00:00</ConstraintDate>
             <LevelAssignments>0</LevelAssignments>
             <LevelingCanSplit>0</LevelingCanSplit>
             <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
@@ -1832,18 +1789,18 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>40</UID>
-            <ID>40</ID>
-            <Name>Fazer Documento de execução</Name>
+            <UID>39</UID>
+            <ID>39</ID>
+            <Name>Coletar primeiros resultados obtidos</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
-            <WBS>3.1</WBS>
-            <OutlineNumber>3.1</OutlineNumber>
-            <OutlineLevel>2</OutlineLevel>
+            <WBS>1.5.1</WBS>
+            <OutlineNumber>1.5.1</OutlineNumber>
+            <OutlineLevel>3</OutlineLevel>
             <Priority>500</Priority>
-            <Start>2020-05-12T08:00:00</Start>
-            <Finish>2020-05-18T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
+            <Start>2020-04-24T08:00:00</Start>
+            <Finish>2020-04-28T16:59:00</Finish>
+            <Duration>PT40H0M0S</Duration>
             <DurationFormat>7</DurationFormat>
             <ResumeValid>0</ResumeValid>
             <EffortDriven>0</EffortDriven>
@@ -1859,7 +1816,47 @@
             <FixedCostAccrual>3</FixedCostAccrual>
             <PercentComplete>0</PercentComplete>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
+            <RemainingDuration>PT40H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>40</UID>
+            <ID>40</ID>
+            <Name>Planejar processos de monitoramento e controle</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.5.2</WBS>
+            <OutlineNumber>1.5.2</OutlineNumber>
+            <OutlineLevel>3</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-04-24T08:00:00</Start>
+            <Finish>2020-04-28T16:59:00</Finish>
+            <Duration>PT40H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT40H0M0S</RemainingDuration>
             <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
             <LevelAssignments>0</LevelAssignments>
@@ -1874,15 +1871,15 @@
         <Task>
             <UID>41</UID>
             <ID>41</ID>
-            <Name>Fazer Documento de monitoramento  e controle</Name>
+            <Name>Entregar documentos de "evidência objetiva"</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
-            <WBS>3.2</WBS>
-            <OutlineNumber>3.2</OutlineNumber>
+            <WBS>1.6</WBS>
+            <OutlineNumber>1.6</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
             <Priority>500</Priority>
-            <Start>2020-05-12T08:00:00</Start>
-            <Finish>2020-05-18T16:59:00</Finish>
+            <Start>2020-04-28T08:00:00</Start>
+            <Finish>2020-05-04T16:59:00</Finish>
             <Duration>PT56H0M0S</Duration>
             <DurationFormat>7</DurationFormat>
             <ResumeValid>0</ResumeValid>
@@ -1891,7 +1888,7 @@
             <OverAllocated>0</OverAllocated>
             <Estimated>0</Estimated>
             <Milestone>0</Milestone>
-            <Summary>0</Summary>
+            <Summary>1</Summary>
             <Critical>0</Critical>
             <IsSubproject>0</IsSubproject>
             <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
@@ -1914,15 +1911,15 @@
         <Task>
             <UID>42</UID>
             <ID>42</ID>
-            <Name>Fazer Documento de dos resultados obtidos</Name>
+            <Name>Fazer Documento de execução</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
-            <WBS>3.3</WBS>
-            <OutlineNumber>3.3</OutlineNumber>
-            <OutlineLevel>2</OutlineLevel>
+            <WBS>1.6.1</WBS>
+            <OutlineNumber>1.6.1</OutlineNumber>
+            <OutlineLevel>3</OutlineLevel>
             <Priority>500</Priority>
-            <Start>2020-05-12T08:00:00</Start>
-            <Finish>2020-05-18T16:59:00</Finish>
+            <Start>2020-04-28T08:00:00</Start>
+            <Finish>2020-05-04T16:59:00</Finish>
             <Duration>PT56H0M0S</Duration>
             <DurationFormat>7</DurationFormat>
             <ResumeValid>0</ResumeValid>
@@ -1954,15 +1951,15 @@
         <Task>
             <UID>43</UID>
             <ID>43</ID>
-            <Name>Fazer planejamento Futuro</Name>
+            <Name>Fazer Documento de monitoramento  e controle</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
-            <WBS>3.4</WBS>
-            <OutlineNumber>3.4</OutlineNumber>
-            <OutlineLevel>2</OutlineLevel>
+            <WBS>1.6.2</WBS>
+            <OutlineNumber>1.6.2</OutlineNumber>
+            <OutlineLevel>3</OutlineLevel>
             <Priority>500</Priority>
-            <Start>2020-05-12T08:00:00</Start>
-            <Finish>2020-05-18T16:59:00</Finish>
+            <Start>2020-04-28T08:00:00</Start>
+            <Finish>2020-05-04T16:59:00</Finish>
             <Duration>PT56H0M0S</Duration>
             <DurationFormat>7</DurationFormat>
             <ResumeValid>0</ResumeValid>
@@ -1994,12 +1991,92 @@
         <Task>
             <UID>44</UID>
             <ID>44</ID>
-            <Name>Entrega todos documentos</Name>
+            <Name>Fazer Documento de dos resultados obtidos</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
-            <WBS>4</WBS>
-            <OutlineNumber>4</OutlineNumber>
-            <OutlineLevel>1</OutlineLevel>
+            <WBS>1.6.3</WBS>
+            <OutlineNumber>1.6.3</OutlineNumber>
+            <OutlineLevel>3</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-04-28T08:00:00</Start>
+            <Finish>2020-05-04T16:59:00</Finish>
+            <Duration>PT56H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT56H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>45</UID>
+            <ID>45</ID>
+            <Name>Fazer planejamento Futuro</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.6.4</WBS>
+            <OutlineNumber>1.6.4</OutlineNumber>
+            <OutlineLevel>3</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-04-28T08:00:00</Start>
+            <Finish>2020-05-04T16:59:00</Finish>
+            <Duration>PT56H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT56H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>46</UID>
+            <ID>46</ID>
+            <Name>Entregar todos documentos</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.7</WBS>
+            <OutlineNumber>1.7</OutlineNumber>
+            <OutlineLevel>2</OutlineLevel>
             <Priority>500</Priority>
             <Start>2020-05-20T08:00:00</Start>
             <Finish>2020-06-09T16:59:00</Finish>
@@ -2020,9 +2097,8 @@
             <PercentComplete>0</PercentComplete>
             <PercentWorkComplete>0</PercentWorkComplete>
             <RemainingDuration>PT168H0M0S</RemainingDuration>
-            <ConstraintType>4</ConstraintType>
+            <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
-            <ConstraintDate>2020-05-20T08:00:00</ConstraintDate>
             <LevelAssignments>0</LevelAssignments>
             <LevelingCanSplit>0</LevelingCanSplit>
             <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
@@ -2038,14 +2114,14 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>45</UID>
-            <ID>45</ID>
+            <UID>47</UID>
+            <ID>47</ID>
             <Name>Fazer documentação</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
-            <WBS>4.1</WBS>
-            <OutlineNumber>4.1</OutlineNumber>
-            <OutlineLevel>2</OutlineLevel>
+            <WBS>1.7.1</WBS>
+            <OutlineNumber>1.7.1</OutlineNumber>
+            <OutlineLevel>3</OutlineLevel>
             <Priority>500</Priority>
             <Start>2020-05-20T08:00:00</Start>
             <Finish>2020-06-09T16:59:00</Finish>
@@ -2078,14 +2154,14 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>46</UID>
-            <ID>46</ID>
+            <UID>48</UID>
+            <ID>48</ID>
             <Name>Elaborar previa de apresentação</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
-            <WBS>4.2</WBS>
-            <OutlineNumber>4.2</OutlineNumber>
-            <OutlineLevel>2</OutlineLevel>
+            <WBS>1.7.2</WBS>
+            <OutlineNumber>1.7.2</OutlineNumber>
+            <OutlineLevel>3</OutlineLevel>
             <Priority>500</Priority>
             <Start>2020-05-20T08:00:00</Start>
             <Finish>2020-06-09T16:59:00</Finish>
@@ -2118,14 +2194,14 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>47</UID>
-            <ID>47</ID>
-            <Name>Apresentação final</Name>
+            <UID>49</UID>
+            <ID>49</ID>
+            <Name>Apresentar trabalho final</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
-            <WBS>5</WBS>
-            <OutlineNumber>5</OutlineNumber>
-            <OutlineLevel>1</OutlineLevel>
+            <WBS>1.8</WBS>
+            <OutlineNumber>1.8</OutlineNumber>
+            <OutlineLevel>2</OutlineLevel>
             <Priority>500</Priority>
             <Start>2020-06-10T08:00:00</Start>
             <Finish>2020-06-16T16:59:00</Finish>
@@ -2146,9 +2222,8 @@
             <PercentComplete>0</PercentComplete>
             <PercentWorkComplete>0</PercentWorkComplete>
             <RemainingDuration>PT56H0M0S</RemainingDuration>
-            <ConstraintType>4</ConstraintType>
+            <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
-            <ConstraintDate>2020-06-10T08:00:00</ConstraintDate>
             <LevelAssignments>0</LevelAssignments>
             <LevelingCanSplit>0</LevelingCanSplit>
             <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
@@ -2156,7 +2231,7 @@
             <Rollup>0</Rollup>
             <EarnedValueMethod>0</EarnedValueMethod>
             <PredecessorLink>
-                <PredecessorUID>44</PredecessorUID>
+                <PredecessorUID>46</PredecessorUID>
                 <Type>1</Type>
                 <CrossProject>0</CrossProject>
             </PredecessorLink>
@@ -2218,7 +2293,7 @@
             <PeakUnits>1</PeakUnits>
             <OverAllocated>0</OverAllocated>
             <Start>2020-04-01T08:00:00</Start>
-            <Finish>2020-05-18T16:59:00</Finish>
+            <Finish>2020-05-11T16:59:00</Finish>
             <CanLevel>0</CanLevel>
             <StandardRateFormat>3</StandardRateFormat>
             <OvertimeRateFormat>3</OvertimeRateFormat>
@@ -2276,16 +2351,16 @@
             <UID>1</UID>
             <TaskUID>1</TaskUID>
             <ResourceUID>4</ResourceUID>
-            <PercentWorkComplete>7</PercentWorkComplete>
-            <ActualWork>PT27H26M24S</ActualWork>
-            <Finish>2020-05-19T16:59:00</Finish>
+            <PercentWorkComplete>5</PercentWorkComplete>
+            <ActualWork>PT30H48M0S</ActualWork>
+            <Finish>2020-06-16T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT364H33M36S</RemainingWork>
+            <RemainingWork>PT585H11M60S</RemainingWork>
             <Start>2020-04-01T08:00:00</Start>
-            <Stop>2020-04-04T11:26:00</Stop>
+            <Stop>2020-04-04T15:48:00</Stop>
             <Units>1</Units>
-            <Work>PT392H0M0S</Work>
+            <Work>PT616H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>2</UID>
@@ -2645,85 +2720,85 @@
             <Finish>2020-04-28T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT8H0M0S</RemainingWork>
-            <Start>2020-04-28T08:00:00</Start>
-            <Stop>2020-04-28T08:00:00</Stop>
+            <RemainingWork>PT40H0M0S</RemainingWork>
+            <Start>2020-04-24T08:00:00</Start>
+            <Stop>2020-04-24T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT8H0M0S</Work>
+            <Work>PT40H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>28</UID>
-            <TaskUID>39</TaskUID>
+            <TaskUID>41</TaskUID>
             <ResourceUID>4</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-05-18T16:59:00</Finish>
+            <Finish>2020-05-04T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
             <RemainingWork>PT56H0M0S</RemainingWork>
-            <Start>2020-05-12T08:00:00</Start>
-            <Stop>2020-05-12T08:00:00</Stop>
+            <Start>2020-04-28T08:00:00</Start>
+            <Stop>2020-04-28T08:00:00</Stop>
             <Units>1</Units>
             <Work>PT56H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>29</UID>
-            <TaskUID>40</TaskUID>
+            <TaskUID>42</TaskUID>
             <ResourceUID>1</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-05-18T16:59:00</Finish>
+            <Finish>2020-05-04T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
             <RemainingWork>PT56H0M0S</RemainingWork>
-            <Start>2020-05-12T08:00:00</Start>
-            <Stop>2020-05-12T08:00:00</Stop>
+            <Start>2020-04-28T08:00:00</Start>
+            <Stop>2020-04-28T08:00:00</Stop>
             <Units>1</Units>
             <Work>PT56H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>30</UID>
-            <TaskUID>41</TaskUID>
+            <TaskUID>43</TaskUID>
             <ResourceUID>5</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-05-18T16:59:00</Finish>
+            <Finish>2020-05-04T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
             <RemainingWork>PT56H0M0S</RemainingWork>
-            <Start>2020-05-12T08:00:00</Start>
-            <Stop>2020-05-12T08:00:00</Stop>
+            <Start>2020-04-28T08:00:00</Start>
+            <Stop>2020-04-28T08:00:00</Stop>
             <Units>1</Units>
             <Work>PT56H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>31</UID>
-            <TaskUID>42</TaskUID>
+            <TaskUID>44</TaskUID>
             <ResourceUID>2</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-05-18T16:59:00</Finish>
+            <Finish>2020-05-04T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
             <RemainingWork>PT56H0M0S</RemainingWork>
-            <Start>2020-05-12T08:00:00</Start>
-            <Stop>2020-05-12T08:00:00</Stop>
+            <Start>2020-04-28T08:00:00</Start>
+            <Stop>2020-04-28T08:00:00</Stop>
             <Units>1</Units>
             <Work>PT56H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>32</UID>
-            <TaskUID>43</TaskUID>
+            <TaskUID>45</TaskUID>
             <ResourceUID>3</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-05-18T16:59:00</Finish>
+            <Finish>2020-05-04T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
             <RemainingWork>PT56H0M0S</RemainingWork>
-            <Start>2020-05-12T08:00:00</Start>
-            <Stop>2020-05-12T08:00:00</Stop>
+            <Start>2020-04-28T08:00:00</Start>
+            <Stop>2020-04-28T08:00:00</Stop>
             <Units>1</Units>
             <Work>PT56H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>33</UID>
-            <TaskUID>44</TaskUID>
+            <TaskUID>46</TaskUID>
             <ResourceUID>4</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
             <Finish>2020-06-09T16:59:00</Finish>
@@ -2737,7 +2812,7 @@
         </Assignment>
         <Assignment>
             <UID>34</UID>
-            <TaskUID>45</TaskUID>
+            <TaskUID>47</TaskUID>
             <ResourceUID>2</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
             <Finish>2020-06-09T16:59:00</Finish>
@@ -2751,7 +2826,7 @@
         </Assignment>
         <Assignment>
             <UID>35</UID>
-            <TaskUID>46</TaskUID>
+            <TaskUID>48</TaskUID>
             <ResourceUID>1</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
             <Finish>2020-06-09T16:59:00</Finish>
@@ -2765,7 +2840,7 @@
         </Assignment>
         <Assignment>
             <UID>36</UID>
-            <TaskUID>47</TaskUID>
+            <TaskUID>49</TaskUID>
             <ResourceUID>4</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
             <Finish>2020-06-16T16:59:00</Finish>
