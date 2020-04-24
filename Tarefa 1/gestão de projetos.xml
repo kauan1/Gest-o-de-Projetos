@@ -4,7 +4,7 @@
     <Title>gestão de projetos</Title>
     <ScheduleFromStart>1</ScheduleFromStart>
     <StartDate>2020-04-01T00:00:00</StartDate>
-    <FinishDate>2020-06-16T00:00:00</FinishDate>
+    <FinishDate>2020-06-12T00:00:00</FinishDate>
     <FYStartDate>1</FYStartDate>
     <CriticalSlackLimit>0</CriticalSlackLimit>
     <CurrencyDigits>2</CurrencyDigits>
@@ -40,7 +40,7 @@
     <MoveCompletedEndsForward>0</MoveCompletedEndsForward>
     <BaselineForEarnedValue>0</BaselineForEarnedValue>
     <AutoAddNewResourcesAndTasks>1</AutoAddNewResourcesAndTasks>
-    <CurrentDate>2020-04-06T04:38:00</CurrentDate>
+    <CurrentDate>2020-04-23T23:35:00</CurrentDate>
     <MicrosoftProjectServerURL>1</MicrosoftProjectServerURL>
     <Autolink>1</Autolink>
     <NewTaskStartDate>0</NewTaskStartDate>
@@ -174,8 +174,8 @@
             <OutlineLevel>1</OutlineLevel>
             <Priority>500</Priority>
             <Start>2020-04-01T08:00:00</Start>
-            <Finish>2020-06-16T16:59:00</Finish>
-            <Duration>PT616H0M0S</Duration>
+            <Finish>2020-06-12T16:59:00</Finish>
+            <Duration>PT584H0M0S</Duration>
             <DurationFormat>7</DurationFormat>
             <ResumeValid>0</ResumeValid>
             <EffortDriven>0</EffortDriven>
@@ -189,10 +189,10 @@
             <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
             <ExternalTask>0</ExternalTask>
             <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>5</PercentComplete>
+            <PercentComplete>32</PercentComplete>
             <ActualStart>2020-04-01T08:00:00</ActualStart>
-            <ActualDuration>PT30H48M0S</ActualDuration>
-            <RemainingDuration>PT585H12M0S</RemainingDuration>
+            <ActualDuration>PT186H52M48S</ActualDuration>
+            <RemainingDuration>PT397H7M12S</RemainingDuration>
             <ConstraintType>4</ConstraintType>
             <CalendarUID>-1</CalendarUID>
             <ConstraintDate>2020-04-01T08:00:00</ConstraintDate>
@@ -208,7 +208,7 @@
         <Task>
             <UID>2</UID>
             <ID>2</ID>
-            <Name>Estudar método Juliana P. Ribeiro</Name>
+            <Name>Definir método</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
             <WBS>1.1</WBS>
@@ -216,8 +216,8 @@
             <OutlineLevel>2</OutlineLevel>
             <Priority>500</Priority>
             <Start>2020-04-01T08:00:00</Start>
-            <Finish>2020-04-07T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
+            <Finish>2020-05-20T16:59:00</Finish>
+            <Duration>PT400H0M0S</Duration>
             <DurationFormat>7</DurationFormat>
             <ResumeValid>0</ResumeValid>
             <EffortDriven>0</EffortDriven>
@@ -225,15 +225,16 @@
             <OverAllocated>0</OverAllocated>
             <Estimated>0</Estimated>
             <Milestone>0</Milestone>
-            <Summary>0</Summary>
+            <Summary>1</Summary>
             <Critical>0</Critical>
             <IsSubproject>0</IsSubproject>
             <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
             <ExternalTask>0</ExternalTask>
             <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
+            <PercentComplete>44</PercentComplete>
+            <ActualStart>2020-04-01T08:00:00</ActualStart>
+            <ActualDuration>PT176H0M0S</ActualDuration>
+            <RemainingDuration>PT224H0M0S</RemainingDuration>
             <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
             <LevelAssignments>0</LevelAssignments>
@@ -242,10 +243,6 @@
             <HideBar>0</HideBar>
             <Rollup>0</Rollup>
             <EarnedValueMethod>0</EarnedValueMethod>
-            <ExtendedAttribute>
-                <FieldID>188743731</FieldID>
-                <Value>Em andamento</Value>
-            </ExtendedAttribute>
             <Active>1</Active>
             <Manual>0</Manual>
         </Task>
@@ -255,9 +252,9 @@
             <Name>Estudar método Marina A. Manso</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
-            <WBS>1.2</WBS>
-            <OutlineNumber>1.2</OutlineNumber>
-            <OutlineLevel>2</OutlineLevel>
+            <WBS>1.1.1</WBS>
+            <OutlineNumber>1.1.1</OutlineNumber>
+            <OutlineLevel>3</OutlineLevel>
             <Priority>500</Priority>
             <Start>2020-04-01T08:00:00</Start>
             <Finish>2020-04-07T16:59:00</Finish>
@@ -275,9 +272,9 @@
             <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
             <ExternalTask>0</ExternalTask>
             <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
+            <PercentComplete>100</PercentComplete>
+            <ActualStart>2020-04-01T08:00:00</ActualStart>
+            <ActualDuration>PT56H0M0S</ActualDuration>
             <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
             <LevelAssignments>0</LevelAssignments>
@@ -288,7 +285,7 @@
             <EarnedValueMethod>0</EarnedValueMethod>
             <ExtendedAttribute>
                 <FieldID>188743731</FieldID>
-                <Value>Em andamento</Value>
+                <Value>Concluído</Value>
             </ExtendedAttribute>
             <Active>1</Active>
             <Manual>0</Manual>
@@ -296,105 +293,15 @@
         <Task>
             <UID>4</UID>
             <ID>4</ID>
-            <Name>Dar aula</Name>
+            <Name>Estudar método Juliana P. Ribeiro</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
-            <WBS>1.3</WBS>
-            <OutlineNumber>1.3</OutlineNumber>
-            <OutlineLevel>2</OutlineLevel>
+            <WBS>1.1.2</WBS>
+            <OutlineNumber>1.1.2</OutlineNumber>
+            <OutlineLevel>3</OutlineLevel>
             <Priority>500</Priority>
             <Start>2020-04-01T08:00:00</Start>
-            <Finish>2020-05-19T16:59:00</Finish>
-            <Duration>PT392H0M0S</Duration>
-            <DurationFormat>7</DurationFormat>
-            <ResumeValid>0</ResumeValid>
-            <EffortDriven>0</EffortDriven>
-            <Recurring>0</Recurring>
-            <OverAllocated>0</OverAllocated>
-            <Estimated>0</Estimated>
-            <Milestone>0</Milestone>
-            <Summary>1</Summary>
-            <Critical>0</Critical>
-            <IsSubproject>0</IsSubproject>
-            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
-            <ExternalTask>0</ExternalTask>
-            <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT392H0M0S</RemainingDuration>
-            <ConstraintType>0</ConstraintType>
-            <CalendarUID>-1</CalendarUID>
-            <LevelAssignments>0</LevelAssignments>
-            <LevelingCanSplit>0</LevelingCanSplit>
-            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
-            <HideBar>0</HideBar>
-            <Rollup>0</Rollup>
-            <EarnedValueMethod>0</EarnedValueMethod>
-            <Active>1</Active>
-            <Manual>0</Manual>
-        </Task>
-        <Task>
-            <UID>5</UID>
-            <ID>5</ID>
-            <Name>Definir método a ser usado</Name>
-            <Type>1</Type>
-            <IsNull>0</IsNull>
-            <WBS>1.3.1</WBS>
-            <OutlineNumber>1.3.1</OutlineNumber>
-            <OutlineLevel>3</OutlineLevel>
-            <Priority>500</Priority>
-            <Start>2020-04-08T08:00:00</Start>
-            <Finish>2020-04-08T16:59:00</Finish>
-            <Duration>PT8H0M0S</Duration>
-            <DurationFormat>7</DurationFormat>
-            <ResumeValid>0</ResumeValid>
-            <EffortDriven>0</EffortDriven>
-            <Recurring>0</Recurring>
-            <OverAllocated>0</OverAllocated>
-            <Estimated>0</Estimated>
-            <Milestone>0</Milestone>
-            <Summary>0</Summary>
-            <Critical>0</Critical>
-            <IsSubproject>0</IsSubproject>
-            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
-            <ExternalTask>0</ExternalTask>
-            <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT8H0M0S</RemainingDuration>
-            <ConstraintType>0</ConstraintType>
-            <CalendarUID>-1</CalendarUID>
-            <LevelAssignments>0</LevelAssignments>
-            <LevelingCanSplit>0</LevelingCanSplit>
-            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
-            <HideBar>0</HideBar>
-            <Rollup>0</Rollup>
-            <EarnedValueMethod>0</EarnedValueMethod>
-            <PredecessorLink>
-                <PredecessorUID>2</PredecessorUID>
-                <Type>1</Type>
-                <CrossProject>0</CrossProject>
-            </PredecessorLink>
-            <PredecessorLink>
-                <PredecessorUID>3</PredecessorUID>
-                <Type>1</Type>
-                <CrossProject>0</CrossProject>
-            </PredecessorLink>
-            <Active>1</Active>
-            <Manual>0</Manual>
-        </Task>
-        <Task>
-            <UID>6</UID>
-            <ID>6</ID>
-            <Name>Estudar App Inventor</Name>
-            <Type>1</Type>
-            <IsNull>0</IsNull>
-            <WBS>1.3.2</WBS>
-            <OutlineNumber>1.3.2</OutlineNumber>
-            <OutlineLevel>3</OutlineLevel>
-            <Priority>500</Priority>
-            <Start>2020-04-02T08:00:00</Start>
-            <Finish>2020-04-08T16:59:00</Finish>
+            <Finish>2020-04-07T16:59:00</Finish>
             <Duration>PT56H0M0S</Duration>
             <DurationFormat>7</DurationFormat>
             <ResumeValid>0</ResumeValid>
@@ -409,174 +316,9 @@
             <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
             <ExternalTask>0</ExternalTask>
             <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
-            <ConstraintType>0</ConstraintType>
-            <CalendarUID>-1</CalendarUID>
-            <LevelAssignments>0</LevelAssignments>
-            <LevelingCanSplit>0</LevelingCanSplit>
-            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
-            <HideBar>0</HideBar>
-            <Rollup>0</Rollup>
-            <EarnedValueMethod>0</EarnedValueMethod>
-            <Active>1</Active>
-            <Manual>0</Manual>
-        </Task>
-        <Task>
-            <UID>7</UID>
-            <ID>7</ID>
-            <Name>Elaborar</Name>
-            <Type>1</Type>
-            <IsNull>0</IsNull>
-            <WBS>1.3.3</WBS>
-            <OutlineNumber>1.3.3</OutlineNumber>
-            <OutlineLevel>3</OutlineLevel>
-            <Priority>500</Priority>
-            <Start>2020-04-09T08:00:00</Start>
-            <Finish>2020-04-13T16:59:00</Finish>
-            <Duration>PT40H0M0S</Duration>
-            <DurationFormat>7</DurationFormat>
-            <ResumeValid>0</ResumeValid>
-            <EffortDriven>0</EffortDriven>
-            <Recurring>0</Recurring>
-            <OverAllocated>0</OverAllocated>
-            <Estimated>0</Estimated>
-            <Milestone>0</Milestone>
-            <Summary>1</Summary>
-            <Critical>0</Critical>
-            <IsSubproject>0</IsSubproject>
-            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
-            <ExternalTask>0</ExternalTask>
-            <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT40H0M0S</RemainingDuration>
-            <ConstraintType>0</ConstraintType>
-            <CalendarUID>-1</CalendarUID>
-            <LevelAssignments>0</LevelAssignments>
-            <LevelingCanSplit>0</LevelingCanSplit>
-            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
-            <HideBar>0</HideBar>
-            <Rollup>0</Rollup>
-            <EarnedValueMethod>0</EarnedValueMethod>
-            <PredecessorLink>
-                <PredecessorUID>6</PredecessorUID>
-                <Type>1</Type>
-                <CrossProject>0</CrossProject>
-            </PredecessorLink>
-            <Active>1</Active>
-            <Manual>0</Manual>
-        </Task>
-        <Task>
-            <UID>8</UID>
-            <ID>8</ID>
-            <Name>Definir Roteiro</Name>
-            <Type>1</Type>
-            <IsNull>0</IsNull>
-            <WBS>1.3.3.1</WBS>
-            <OutlineNumber>1.3.3.1</OutlineNumber>
-            <OutlineLevel>4</OutlineLevel>
-            <Priority>500</Priority>
-            <Start>2020-04-09T08:00:00</Start>
-            <Finish>2020-04-13T16:59:00</Finish>
-            <Duration>PT40H0M0S</Duration>
-            <DurationFormat>7</DurationFormat>
-            <ResumeValid>0</ResumeValid>
-            <EffortDriven>0</EffortDriven>
-            <Recurring>0</Recurring>
-            <OverAllocated>0</OverAllocated>
-            <Estimated>0</Estimated>
-            <Milestone>0</Milestone>
-            <Summary>0</Summary>
-            <Critical>0</Critical>
-            <IsSubproject>0</IsSubproject>
-            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
-            <ExternalTask>0</ExternalTask>
-            <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT40H0M0S</RemainingDuration>
-            <ConstraintType>0</ConstraintType>
-            <CalendarUID>-1</CalendarUID>
-            <LevelAssignments>0</LevelAssignments>
-            <LevelingCanSplit>0</LevelingCanSplit>
-            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
-            <HideBar>0</HideBar>
-            <Rollup>0</Rollup>
-            <EarnedValueMethod>0</EarnedValueMethod>
-            <Active>1</Active>
-            <Manual>0</Manual>
-        </Task>
-        <Task>
-            <UID>9</UID>
-            <ID>9</ID>
-            <Name>Elaborar aulas</Name>
-            <Type>1</Type>
-            <IsNull>0</IsNull>
-            <WBS>1.3.3.2</WBS>
-            <OutlineNumber>1.3.3.2</OutlineNumber>
-            <OutlineLevel>4</OutlineLevel>
-            <Priority>500</Priority>
-            <Start>2020-04-09T08:00:00</Start>
-            <Finish>2020-04-13T16:59:00</Finish>
-            <Duration>PT40H0M0S</Duration>
-            <DurationFormat>7</DurationFormat>
-            <ResumeValid>0</ResumeValid>
-            <EffortDriven>0</EffortDriven>
-            <Recurring>0</Recurring>
-            <OverAllocated>0</OverAllocated>
-            <Estimated>0</Estimated>
-            <Milestone>0</Milestone>
-            <Summary>0</Summary>
-            <Critical>0</Critical>
-            <IsSubproject>0</IsSubproject>
-            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
-            <ExternalTask>0</ExternalTask>
-            <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT40H0M0S</RemainingDuration>
-            <ConstraintType>0</ConstraintType>
-            <CalendarUID>-1</CalendarUID>
-            <LevelAssignments>0</LevelAssignments>
-            <LevelingCanSplit>0</LevelingCanSplit>
-            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
-            <HideBar>0</HideBar>
-            <Rollup>0</Rollup>
-            <EarnedValueMethod>0</EarnedValueMethod>
-            <Active>1</Active>
-            <Manual>0</Manual>
-        </Task>
-        <Task>
-            <UID>10</UID>
-            <ID>10</ID>
-            <Name>Encontrar alunos</Name>
-            <Type>1</Type>
-            <IsNull>0</IsNull>
-            <WBS>1.3.4</WBS>
-            <OutlineNumber>1.3.4</OutlineNumber>
-            <OutlineLevel>3</OutlineLevel>
-            <Priority>500</Priority>
-            <Start>2020-04-01T08:00:00</Start>
-            <Finish>2020-04-13T16:59:00</Finish>
-            <Duration>PT104H0M0S</Duration>
-            <DurationFormat>7</DurationFormat>
-            <ResumeValid>0</ResumeValid>
-            <EffortDriven>0</EffortDriven>
-            <Recurring>0</Recurring>
-            <OverAllocated>0</OverAllocated>
-            <Estimated>0</Estimated>
-            <Milestone>0</Milestone>
-            <Summary>0</Summary>
-            <Critical>0</Critical>
-            <IsSubproject>0</IsSubproject>
-            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
-            <ExternalTask>0</ExternalTask>
-            <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT104H0M0S</RemainingDuration>
+            <PercentComplete>100</PercentComplete>
+            <ActualStart>2020-04-01T08:00:00</ActualStart>
+            <ActualDuration>PT56H0M0S</ActualDuration>
             <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
             <LevelAssignments>0</LevelAssignments>
@@ -587,23 +329,67 @@
             <EarnedValueMethod>0</EarnedValueMethod>
             <ExtendedAttribute>
                 <FieldID>188743731</FieldID>
-                <Value>Em andamento</Value>
+                <Value>Concluído</Value>
             </ExtendedAttribute>
             <Active>1</Active>
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>11</UID>
-            <ID>11</ID>
-            <Name>Aplicar aulas</Name>
+            <UID>5</UID>
+            <ID>5</ID>
+            <Name>Estudar App Inventor</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
-            <WBS>1.3.5</WBS>
-            <OutlineNumber>1.3.5</OutlineNumber>
+            <WBS>1.1.3</WBS>
+            <OutlineNumber>1.1.3</OutlineNumber>
             <OutlineLevel>3</OutlineLevel>
             <Priority>500</Priority>
-            <Start>2020-04-14T08:00:00</Start>
-            <Finish>2020-05-19T16:59:00</Finish>
+            <Start>2020-04-02T08:00:00</Start>
+            <Finish>2020-04-15T16:59:00</Finish>
+            <Duration>PT112H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>100</PercentComplete>
+            <ActualStart>2020-04-02T08:00:00</ActualStart>
+            <ActualDuration>PT112H0M0S</ActualDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <ExtendedAttribute>
+                <FieldID>188743731</FieldID>
+                <Value>Concluído</Value>
+            </ExtendedAttribute>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>6</UID>
+            <ID>6</ID>
+            <Name>Elaborar</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.1.4</WBS>
+            <OutlineNumber>1.1.4</OutlineNumber>
+            <OutlineLevel>3</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-04-15T08:00:00</Start>
+            <Finish>2020-05-20T16:59:00</Finish>
             <Duration>PT288H0M0S</Duration>
             <DurationFormat>7</DurationFormat>
             <ResumeValid>0</ResumeValid>
@@ -629,18 +415,230 @@
             <HideBar>0</HideBar>
             <Rollup>0</Rollup>
             <EarnedValueMethod>0</EarnedValueMethod>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>7</UID>
+            <ID>7</ID>
+            <Name>Definir Roteiro</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.1.4.1</WBS>
+            <OutlineNumber>1.1.4.1</OutlineNumber>
+            <OutlineLevel>4</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-04-16T08:00:00</Start>
+            <Finish>2020-04-20T16:59:00</Finish>
+            <Duration>PT40H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT40H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <ExtendedAttribute>
+                <FieldID>188743731</FieldID>
+                <Value>Em andamento</Value>
+            </ExtendedAttribute>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>8</UID>
+            <ID>8</ID>
+            <Name>Elaborar aula semana 1</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.1.4.2</WBS>
+            <OutlineNumber>1.1.4.2</OutlineNumber>
+            <OutlineLevel>4</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-04-15T08:00:00</Start>
+            <Finish>2020-04-16T16:59:00</Finish>
+            <Duration>PT16H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT16H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <ExtendedAttribute>
+                <FieldID>188743731</FieldID>
+                <Value>Concluído</Value>
+            </ExtendedAttribute>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>9</UID>
+            <ID>9</ID>
+            <Name>Elaborar aula semana 2</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.1.4.3</WBS>
+            <OutlineNumber>1.1.4.3</OutlineNumber>
+            <OutlineLevel>4</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-04-18T08:00:00</Start>
+            <Finish>2020-04-22T16:59:00</Finish>
+            <Duration>PT40H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT40H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
             <PredecessorLink>
-                <PredecessorUID>6</PredecessorUID>
+                <PredecessorUID>16</PredecessorUID>
                 <Type>1</Type>
                 <CrossProject>0</CrossProject>
             </PredecessorLink>
+            <ExtendedAttribute>
+                <FieldID>188743731</FieldID>
+                <Value>Em andamento</Value>
+            </ExtendedAttribute>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>10</UID>
+            <ID>10</ID>
+            <Name>Elaborar aula semana 3</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.1.4.4</WBS>
+            <OutlineNumber>1.1.4.4</OutlineNumber>
+            <OutlineLevel>4</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-04-25T08:00:00</Start>
+            <Finish>2020-04-29T16:59:00</Finish>
+            <Duration>PT40H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT40H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
             <PredecessorLink>
-                <PredecessorUID>7</PredecessorUID>
+                <PredecessorUID>19</PredecessorUID>
                 <Type>1</Type>
                 <CrossProject>0</CrossProject>
             </PredecessorLink>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>11</UID>
+            <ID>11</ID>
+            <Name>Elaborar aula semana 4</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.1.4.5</WBS>
+            <OutlineNumber>1.1.4.5</OutlineNumber>
+            <OutlineLevel>4</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-05-02T08:00:00</Start>
+            <Finish>2020-05-06T16:59:00</Finish>
+            <Duration>PT40H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT40H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
             <PredecessorLink>
-                <PredecessorUID>10</PredecessorUID>
+                <PredecessorUID>22</PredecessorUID>
                 <Type>1</Type>
                 <CrossProject>0</CrossProject>
             </PredecessorLink>
@@ -650,16 +648,16 @@
         <Task>
             <UID>12</UID>
             <ID>12</ID>
-            <Name>Aula 1</Name>
+            <Name>Elaborar aula semana 5</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
-            <WBS>1.3.5.1</WBS>
-            <OutlineNumber>1.3.5.1</OutlineNumber>
+            <WBS>1.1.4.6</WBS>
+            <OutlineNumber>1.1.4.6</OutlineNumber>
             <OutlineLevel>4</OutlineLevel>
             <Priority>500</Priority>
-            <Start>2020-04-14T08:00:00</Start>
-            <Finish>2020-04-20T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
+            <Start>2020-05-09T08:00:00</Start>
+            <Finish>2020-05-13T16:59:00</Finish>
+            <Duration>PT40H0M0S</Duration>
             <DurationFormat>7</DurationFormat>
             <ResumeValid>0</ResumeValid>
             <EffortDriven>0</EffortDriven>
@@ -667,7 +665,7 @@
             <OverAllocated>0</OverAllocated>
             <Estimated>0</Estimated>
             <Milestone>0</Milestone>
-            <Summary>1</Summary>
+            <Summary>0</Summary>
             <Critical>0</Critical>
             <IsSubproject>0</IsSubproject>
             <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
@@ -675,7 +673,7 @@
             <FixedCostAccrual>3</FixedCostAccrual>
             <PercentComplete>0</PercentComplete>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
+            <RemainingDuration>PT40H0M0S</RemainingDuration>
             <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
             <LevelAssignments>0</LevelAssignments>
@@ -684,22 +682,27 @@
             <HideBar>0</HideBar>
             <Rollup>0</Rollup>
             <EarnedValueMethod>0</EarnedValueMethod>
+            <PredecessorLink>
+                <PredecessorUID>25</PredecessorUID>
+                <Type>1</Type>
+                <CrossProject>0</CrossProject>
+            </PredecessorLink>
             <Active>1</Active>
             <Manual>0</Manual>
         </Task>
         <Task>
             <UID>13</UID>
             <ID>13</ID>
-            <Name>Aplicar aula</Name>
+            <Name>Elaborar aula semana 6</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
-            <WBS>1.3.5.1.1</WBS>
-            <OutlineNumber>1.3.5.1.1</OutlineNumber>
-            <OutlineLevel>5</OutlineLevel>
+            <WBS>1.1.4.7</WBS>
+            <OutlineNumber>1.1.4.7</OutlineNumber>
+            <OutlineLevel>4</OutlineLevel>
             <Priority>500</Priority>
-            <Start>2020-04-14T08:00:00</Start>
-            <Finish>2020-04-20T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
+            <Start>2020-05-16T08:00:00</Start>
+            <Finish>2020-05-20T16:59:00</Finish>
+            <Duration>PT40H0M0S</Duration>
             <DurationFormat>7</DurationFormat>
             <ResumeValid>0</ResumeValid>
             <EffortDriven>0</EffortDriven>
@@ -715,7 +718,7 @@
             <FixedCostAccrual>3</FixedCostAccrual>
             <PercentComplete>0</PercentComplete>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
+            <RemainingDuration>PT40H0M0S</RemainingDuration>
             <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
             <LevelAssignments>0</LevelAssignments>
@@ -724,22 +727,27 @@
             <HideBar>0</HideBar>
             <Rollup>0</Rollup>
             <EarnedValueMethod>0</EarnedValueMethod>
+            <PredecessorLink>
+                <PredecessorUID>29</PredecessorUID>
+                <Type>1</Type>
+                <CrossProject>0</CrossProject>
+            </PredecessorLink>
             <Active>1</Active>
             <Manual>0</Manual>
         </Task>
         <Task>
             <UID>14</UID>
             <ID>14</ID>
-            <Name>Monitorar e controlar aula</Name>
+            <Name>Encontrar alunos</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
-            <WBS>1.3.5.1.2</WBS>
-            <OutlineNumber>1.3.5.1.2</OutlineNumber>
-            <OutlineLevel>5</OutlineLevel>
+            <WBS>1.2</WBS>
+            <OutlineNumber>1.2</OutlineNumber>
+            <OutlineLevel>2</OutlineLevel>
             <Priority>500</Priority>
-            <Start>2020-04-14T08:00:00</Start>
-            <Finish>2020-04-20T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
+            <Start>2020-04-01T08:00:00</Start>
+            <Finish>2020-04-13T16:59:00</Finish>
+            <Duration>PT104H0M0S</Duration>
             <DurationFormat>7</DurationFormat>
             <ResumeValid>0</ResumeValid>
             <EffortDriven>0</EffortDriven>
@@ -753,9 +761,54 @@
             <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
             <ExternalTask>0</ExternalTask>
             <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
+            <PercentComplete>100</PercentComplete>
+            <ActualStart>2020-04-01T08:00:00</ActualStart>
+            <ActualDuration>PT104H0M0S</ActualDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <ExtendedAttribute>
+                <FieldID>188743731</FieldID>
+                <Value>Concluído</Value>
+            </ExtendedAttribute>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>15</UID>
+            <ID>15</ID>
+            <Name>Aplicar método</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.3</WBS>
+            <OutlineNumber>1.3</OutlineNumber>
+            <OutlineLevel>2</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-04-17T08:00:00</Start>
+            <Finish>2020-05-22T16:59:00</Finish>
+            <Duration>PT288H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>1</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>9</PercentComplete>
+            <ActualStart>2020-04-17T08:00:00</ActualStart>
+            <ActualDuration>PT25H55M12S</ActualDuration>
+            <RemainingDuration>PT262H4M48S</RemainingDuration>
             <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
             <LevelAssignments>0</LevelAssignments>
@@ -768,18 +821,160 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>15</UID>
-            <ID>15</ID>
+            <UID>16</UID>
+            <ID>16</ID>
+            <Name>Aula 1</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.3.1</WBS>
+            <OutlineNumber>1.3.1</OutlineNumber>
+            <OutlineLevel>3</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-04-17T08:00:00</Start>
+            <Finish>2020-04-17T16:59:00</Finish>
+            <Duration>PT8H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>1</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>100</PercentComplete>
+            <ActualStart>2020-04-17T08:00:00</ActualStart>
+            <ActualDuration>PT8H0M0S</ActualDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <ExtendedAttribute>
+                <FieldID>188743731</FieldID>
+                <Value>Concluído</Value>
+            </ExtendedAttribute>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>17</UID>
+            <ID>17</ID>
+            <Name>Aplicar aula</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.3.1.1</WBS>
+            <OutlineNumber>1.3.1.1</OutlineNumber>
+            <OutlineLevel>4</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-04-17T08:00:00</Start>
+            <Finish>2020-04-17T16:59:00</Finish>
+            <Duration>PT8H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>100</PercentComplete>
+            <ActualStart>2020-04-17T08:00:00</ActualStart>
+            <ActualDuration>PT8H0M0S</ActualDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <PredecessorLink>
+                <PredecessorUID>8</PredecessorUID>
+                <Type>1</Type>
+                <CrossProject>0</CrossProject>
+            </PredecessorLink>
+            <ExtendedAttribute>
+                <FieldID>188743731</FieldID>
+                <Value>Concluído</Value>
+            </ExtendedAttribute>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>18</UID>
+            <ID>18</ID>
+            <Name>Monitorar e controlar aula</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.3.1.2</WBS>
+            <OutlineNumber>1.3.1.2</OutlineNumber>
+            <OutlineLevel>4</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-04-17T08:00:00</Start>
+            <Finish>2020-04-17T16:59:00</Finish>
+            <Duration>PT8H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>100</PercentComplete>
+            <ActualStart>2020-04-17T08:00:00</ActualStart>
+            <ActualDuration>PT8H0M0S</ActualDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <PredecessorLink>
+                <PredecessorUID>8</PredecessorUID>
+                <Type>1</Type>
+                <CrossProject>0</CrossProject>
+            </PredecessorLink>
+            <ExtendedAttribute>
+                <FieldID>188743731</FieldID>
+                <Value>Concluído</Value>
+            </ExtendedAttribute>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>19</UID>
+            <ID>19</ID>
             <Name>Aula 2</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
-            <WBS>1.3.5.2</WBS>
-            <OutlineNumber>1.3.5.2</OutlineNumber>
-            <OutlineLevel>4</OutlineLevel>
+            <WBS>1.3.2</WBS>
+            <OutlineNumber>1.3.2</OutlineNumber>
+            <OutlineLevel>3</OutlineLevel>
             <Priority>500</Priority>
-            <Start>2020-04-21T08:00:00</Start>
-            <Finish>2020-04-27T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
+            <Start>2020-04-23T08:00:00</Start>
+            <Finish>2020-04-24T16:59:00</Finish>
+            <Duration>PT16H0M0S</Duration>
             <DurationFormat>7</DurationFormat>
             <ResumeValid>0</ResumeValid>
             <EffortDriven>0</EffortDriven>
@@ -795,7 +990,437 @@
             <FixedCostAccrual>3</FixedCostAccrual>
             <PercentComplete>0</PercentComplete>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
+            <RemainingDuration>PT16H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>20</UID>
+            <ID>20</ID>
+            <Name>Aplicar aula</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.3.2.1</WBS>
+            <OutlineNumber>1.3.2.1</OutlineNumber>
+            <OutlineLevel>4</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-04-23T08:00:00</Start>
+            <Finish>2020-04-24T16:59:00</Finish>
+            <Duration>PT16H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT16H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <PredecessorLink>
+                <PredecessorUID>9</PredecessorUID>
+                <Type>1</Type>
+                <CrossProject>0</CrossProject>
+            </PredecessorLink>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>21</UID>
+            <ID>21</ID>
+            <Name>Monitorar e controlar aula</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.3.2.2</WBS>
+            <OutlineNumber>1.3.2.2</OutlineNumber>
+            <OutlineLevel>4</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-04-23T08:00:00</Start>
+            <Finish>2020-04-24T16:59:00</Finish>
+            <Duration>PT16H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT16H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <PredecessorLink>
+                <PredecessorUID>9</PredecessorUID>
+                <Type>1</Type>
+                <CrossProject>0</CrossProject>
+            </PredecessorLink>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>22</UID>
+            <ID>22</ID>
+            <Name>Aula 3</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.3.3</WBS>
+            <OutlineNumber>1.3.3</OutlineNumber>
+            <OutlineLevel>3</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-04-30T08:00:00</Start>
+            <Finish>2020-05-01T16:59:00</Finish>
+            <Duration>PT16H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>1</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT16H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>23</UID>
+            <ID>23</ID>
+            <Name>Aplicar aula</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.3.3.1</WBS>
+            <OutlineNumber>1.3.3.1</OutlineNumber>
+            <OutlineLevel>4</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-04-30T08:00:00</Start>
+            <Finish>2020-05-01T16:59:00</Finish>
+            <Duration>PT16H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT16H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <PredecessorLink>
+                <PredecessorUID>10</PredecessorUID>
+                <Type>1</Type>
+                <CrossProject>0</CrossProject>
+            </PredecessorLink>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>24</UID>
+            <ID>24</ID>
+            <Name>Monitorar e controlar aula</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.3.3.2</WBS>
+            <OutlineNumber>1.3.3.2</OutlineNumber>
+            <OutlineLevel>4</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-04-30T08:00:00</Start>
+            <Finish>2020-05-01T16:59:00</Finish>
+            <Duration>PT16H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT16H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <PredecessorLink>
+                <PredecessorUID>10</PredecessorUID>
+                <Type>1</Type>
+                <CrossProject>0</CrossProject>
+            </PredecessorLink>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>25</UID>
+            <ID>25</ID>
+            <Name>Aula 4</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.3.4</WBS>
+            <OutlineNumber>1.3.4</OutlineNumber>
+            <OutlineLevel>3</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-05-07T08:00:00</Start>
+            <Finish>2020-05-08T16:59:00</Finish>
+            <Duration>PT16H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>1</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT16H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>26</UID>
+            <ID>26</ID>
+            <Name>Aplicar aula</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.3.4.1</WBS>
+            <OutlineNumber>1.3.4.1</OutlineNumber>
+            <OutlineLevel>4</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-05-07T08:00:00</Start>
+            <Finish>2020-05-08T16:59:00</Finish>
+            <Duration>PT16H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT16H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <PredecessorLink>
+                <PredecessorUID>11</PredecessorUID>
+                <Type>1</Type>
+                <CrossProject>0</CrossProject>
+            </PredecessorLink>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>27</UID>
+            <ID>27</ID>
+            <Name>Monitorar e controlar aula</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.3.4.2</WBS>
+            <OutlineNumber>1.3.4.2</OutlineNumber>
+            <OutlineLevel>4</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-05-07T08:00:00</Start>
+            <Finish>2020-05-08T16:59:00</Finish>
+            <Duration>PT16H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT16H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <PredecessorLink>
+                <PredecessorUID>11</PredecessorUID>
+                <Type>1</Type>
+                <CrossProject>0</CrossProject>
+            </PredecessorLink>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>28</UID>
+            <ID>28</ID>
+            <Name>Aula 5</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.3.5</WBS>
+            <OutlineNumber>1.3.5</OutlineNumber>
+            <OutlineLevel>3</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-05-14T08:00:00</Start>
+            <Finish>2020-05-15T16:59:00</Finish>
+            <Duration>PT16H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>1</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT16H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>29</UID>
+            <ID>29</ID>
+            <Name>Aplicar aula</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.3.5.1</WBS>
+            <OutlineNumber>1.3.5.1</OutlineNumber>
+            <OutlineLevel>4</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-05-14T08:00:00</Start>
+            <Finish>2020-05-15T16:59:00</Finish>
+            <Duration>PT16H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT16H0M0S</RemainingDuration>
             <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
             <LevelAssignments>0</LevelAssignments>
@@ -813,58 +1438,18 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>16</UID>
-            <ID>16</ID>
-            <Name>Aplicar aula</Name>
-            <Type>1</Type>
-            <IsNull>0</IsNull>
-            <WBS>1.3.5.2.1</WBS>
-            <OutlineNumber>1.3.5.2.1</OutlineNumber>
-            <OutlineLevel>5</OutlineLevel>
-            <Priority>500</Priority>
-            <Start>2020-04-21T08:00:00</Start>
-            <Finish>2020-04-27T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
-            <DurationFormat>7</DurationFormat>
-            <ResumeValid>0</ResumeValid>
-            <EffortDriven>0</EffortDriven>
-            <Recurring>0</Recurring>
-            <OverAllocated>0</OverAllocated>
-            <Estimated>0</Estimated>
-            <Milestone>0</Milestone>
-            <Summary>0</Summary>
-            <Critical>0</Critical>
-            <IsSubproject>0</IsSubproject>
-            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
-            <ExternalTask>0</ExternalTask>
-            <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
-            <ConstraintType>0</ConstraintType>
-            <CalendarUID>-1</CalendarUID>
-            <LevelAssignments>0</LevelAssignments>
-            <LevelingCanSplit>0</LevelingCanSplit>
-            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
-            <HideBar>0</HideBar>
-            <Rollup>0</Rollup>
-            <EarnedValueMethod>0</EarnedValueMethod>
-            <Active>1</Active>
-            <Manual>0</Manual>
-        </Task>
-        <Task>
-            <UID>17</UID>
-            <ID>17</ID>
+            <UID>30</UID>
+            <ID>30</ID>
             <Name>Monitorar e controlar aula</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
-            <WBS>1.3.5.2.2</WBS>
-            <OutlineNumber>1.3.5.2.2</OutlineNumber>
-            <OutlineLevel>5</OutlineLevel>
+            <WBS>1.3.5.2</WBS>
+            <OutlineNumber>1.3.5.2</OutlineNumber>
+            <OutlineLevel>4</OutlineLevel>
             <Priority>500</Priority>
-            <Start>2020-04-21T08:00:00</Start>
-            <Finish>2020-04-27T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
+            <Start>2020-05-14T08:00:00</Start>
+            <Finish>2020-05-15T16:59:00</Finish>
+            <Duration>PT16H0M0S</Duration>
             <DurationFormat>7</DurationFormat>
             <ResumeValid>0</ResumeValid>
             <EffortDriven>0</EffortDriven>
@@ -880,47 +1465,7 @@
             <FixedCostAccrual>3</FixedCostAccrual>
             <PercentComplete>0</PercentComplete>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
-            <ConstraintType>0</ConstraintType>
-            <CalendarUID>-1</CalendarUID>
-            <LevelAssignments>0</LevelAssignments>
-            <LevelingCanSplit>0</LevelingCanSplit>
-            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
-            <HideBar>0</HideBar>
-            <Rollup>0</Rollup>
-            <EarnedValueMethod>0</EarnedValueMethod>
-            <Active>1</Active>
-            <Manual>0</Manual>
-        </Task>
-        <Task>
-            <UID>18</UID>
-            <ID>18</ID>
-            <Name>Aula 3</Name>
-            <Type>1</Type>
-            <IsNull>0</IsNull>
-            <WBS>1.3.5.3</WBS>
-            <OutlineNumber>1.3.5.3</OutlineNumber>
-            <OutlineLevel>4</OutlineLevel>
-            <Priority>500</Priority>
-            <Start>2020-04-28T08:00:00</Start>
-            <Finish>2020-05-04T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
-            <DurationFormat>7</DurationFormat>
-            <ResumeValid>0</ResumeValid>
-            <EffortDriven>0</EffortDriven>
-            <Recurring>0</Recurring>
-            <OverAllocated>0</OverAllocated>
-            <Estimated>0</Estimated>
-            <Milestone>0</Milestone>
-            <Summary>1</Summary>
-            <Critical>0</Critical>
-            <IsSubproject>0</IsSubproject>
-            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
-            <ExternalTask>0</ExternalTask>
-            <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
+            <RemainingDuration>PT16H0M0S</RemainingDuration>
             <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
             <LevelAssignments>0</LevelAssignments>
@@ -930,7 +1475,7 @@
             <Rollup>0</Rollup>
             <EarnedValueMethod>0</EarnedValueMethod>
             <PredecessorLink>
-                <PredecessorUID>15</PredecessorUID>
+                <PredecessorUID>12</PredecessorUID>
                 <Type>1</Type>
                 <CrossProject>0</CrossProject>
             </PredecessorLink>
@@ -938,348 +1483,18 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>19</UID>
-            <ID>19</ID>
-            <Name>Aplicar aula</Name>
-            <Type>1</Type>
-            <IsNull>0</IsNull>
-            <WBS>1.3.5.3.1</WBS>
-            <OutlineNumber>1.3.5.3.1</OutlineNumber>
-            <OutlineLevel>5</OutlineLevel>
-            <Priority>500</Priority>
-            <Start>2020-04-28T08:00:00</Start>
-            <Finish>2020-05-04T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
-            <DurationFormat>7</DurationFormat>
-            <ResumeValid>0</ResumeValid>
-            <EffortDriven>0</EffortDriven>
-            <Recurring>0</Recurring>
-            <OverAllocated>0</OverAllocated>
-            <Estimated>0</Estimated>
-            <Milestone>0</Milestone>
-            <Summary>0</Summary>
-            <Critical>0</Critical>
-            <IsSubproject>0</IsSubproject>
-            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
-            <ExternalTask>0</ExternalTask>
-            <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
-            <ConstraintType>0</ConstraintType>
-            <CalendarUID>-1</CalendarUID>
-            <LevelAssignments>0</LevelAssignments>
-            <LevelingCanSplit>0</LevelingCanSplit>
-            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
-            <HideBar>0</HideBar>
-            <Rollup>0</Rollup>
-            <EarnedValueMethod>0</EarnedValueMethod>
-            <Active>1</Active>
-            <Manual>0</Manual>
-        </Task>
-        <Task>
-            <UID>20</UID>
-            <ID>20</ID>
-            <Name>Monitorar e controlar aula</Name>
-            <Type>1</Type>
-            <IsNull>0</IsNull>
-            <WBS>1.3.5.3.2</WBS>
-            <OutlineNumber>1.3.5.3.2</OutlineNumber>
-            <OutlineLevel>5</OutlineLevel>
-            <Priority>500</Priority>
-            <Start>2020-04-28T08:00:00</Start>
-            <Finish>2020-05-04T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
-            <DurationFormat>7</DurationFormat>
-            <ResumeValid>0</ResumeValid>
-            <EffortDriven>0</EffortDriven>
-            <Recurring>0</Recurring>
-            <OverAllocated>0</OverAllocated>
-            <Estimated>0</Estimated>
-            <Milestone>0</Milestone>
-            <Summary>0</Summary>
-            <Critical>0</Critical>
-            <IsSubproject>0</IsSubproject>
-            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
-            <ExternalTask>0</ExternalTask>
-            <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
-            <ConstraintType>0</ConstraintType>
-            <CalendarUID>-1</CalendarUID>
-            <LevelAssignments>0</LevelAssignments>
-            <LevelingCanSplit>0</LevelingCanSplit>
-            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
-            <HideBar>0</HideBar>
-            <Rollup>0</Rollup>
-            <EarnedValueMethod>0</EarnedValueMethod>
-            <Active>1</Active>
-            <Manual>0</Manual>
-        </Task>
-        <Task>
-            <UID>21</UID>
-            <ID>21</ID>
-            <Name>Aula 4</Name>
-            <Type>1</Type>
-            <IsNull>0</IsNull>
-            <WBS>1.3.5.4</WBS>
-            <OutlineNumber>1.3.5.4</OutlineNumber>
-            <OutlineLevel>4</OutlineLevel>
-            <Priority>500</Priority>
-            <Start>2020-05-05T08:00:00</Start>
-            <Finish>2020-05-11T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
-            <DurationFormat>7</DurationFormat>
-            <ResumeValid>0</ResumeValid>
-            <EffortDriven>0</EffortDriven>
-            <Recurring>0</Recurring>
-            <OverAllocated>0</OverAllocated>
-            <Estimated>0</Estimated>
-            <Milestone>0</Milestone>
-            <Summary>1</Summary>
-            <Critical>0</Critical>
-            <IsSubproject>0</IsSubproject>
-            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
-            <ExternalTask>0</ExternalTask>
-            <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
-            <ConstraintType>0</ConstraintType>
-            <CalendarUID>-1</CalendarUID>
-            <LevelAssignments>0</LevelAssignments>
-            <LevelingCanSplit>0</LevelingCanSplit>
-            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
-            <HideBar>0</HideBar>
-            <Rollup>0</Rollup>
-            <EarnedValueMethod>0</EarnedValueMethod>
-            <PredecessorLink>
-                <PredecessorUID>18</PredecessorUID>
-                <Type>1</Type>
-                <CrossProject>0</CrossProject>
-            </PredecessorLink>
-            <Active>1</Active>
-            <Manual>0</Manual>
-        </Task>
-        <Task>
-            <UID>22</UID>
-            <ID>22</ID>
-            <Name>Aplicar aula</Name>
-            <Type>1</Type>
-            <IsNull>0</IsNull>
-            <WBS>1.3.5.4.1</WBS>
-            <OutlineNumber>1.3.5.4.1</OutlineNumber>
-            <OutlineLevel>5</OutlineLevel>
-            <Priority>500</Priority>
-            <Start>2020-05-05T08:00:00</Start>
-            <Finish>2020-05-11T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
-            <DurationFormat>7</DurationFormat>
-            <ResumeValid>0</ResumeValid>
-            <EffortDriven>0</EffortDriven>
-            <Recurring>0</Recurring>
-            <OverAllocated>0</OverAllocated>
-            <Estimated>0</Estimated>
-            <Milestone>0</Milestone>
-            <Summary>0</Summary>
-            <Critical>0</Critical>
-            <IsSubproject>0</IsSubproject>
-            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
-            <ExternalTask>0</ExternalTask>
-            <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
-            <ConstraintType>0</ConstraintType>
-            <CalendarUID>-1</CalendarUID>
-            <LevelAssignments>0</LevelAssignments>
-            <LevelingCanSplit>0</LevelingCanSplit>
-            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
-            <HideBar>0</HideBar>
-            <Rollup>0</Rollup>
-            <EarnedValueMethod>0</EarnedValueMethod>
-            <Active>1</Active>
-            <Manual>0</Manual>
-        </Task>
-        <Task>
-            <UID>23</UID>
-            <ID>23</ID>
-            <Name>Monitorar e controlar aula</Name>
-            <Type>1</Type>
-            <IsNull>0</IsNull>
-            <WBS>1.3.5.4.2</WBS>
-            <OutlineNumber>1.3.5.4.2</OutlineNumber>
-            <OutlineLevel>5</OutlineLevel>
-            <Priority>500</Priority>
-            <Start>2020-05-05T08:00:00</Start>
-            <Finish>2020-05-11T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
-            <DurationFormat>7</DurationFormat>
-            <ResumeValid>0</ResumeValid>
-            <EffortDriven>0</EffortDriven>
-            <Recurring>0</Recurring>
-            <OverAllocated>0</OverAllocated>
-            <Estimated>0</Estimated>
-            <Milestone>0</Milestone>
-            <Summary>0</Summary>
-            <Critical>0</Critical>
-            <IsSubproject>0</IsSubproject>
-            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
-            <ExternalTask>0</ExternalTask>
-            <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
-            <ConstraintType>0</ConstraintType>
-            <CalendarUID>-1</CalendarUID>
-            <LevelAssignments>0</LevelAssignments>
-            <LevelingCanSplit>0</LevelingCanSplit>
-            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
-            <HideBar>0</HideBar>
-            <Rollup>0</Rollup>
-            <EarnedValueMethod>0</EarnedValueMethod>
-            <Active>1</Active>
-            <Manual>0</Manual>
-        </Task>
-        <Task>
-            <UID>24</UID>
-            <ID>24</ID>
-            <Name>Aula 5</Name>
-            <Type>1</Type>
-            <IsNull>0</IsNull>
-            <WBS>1.3.5.5</WBS>
-            <OutlineNumber>1.3.5.5</OutlineNumber>
-            <OutlineLevel>4</OutlineLevel>
-            <Priority>500</Priority>
-            <Start>2020-05-12T08:00:00</Start>
-            <Finish>2020-05-18T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
-            <DurationFormat>7</DurationFormat>
-            <ResumeValid>0</ResumeValid>
-            <EffortDriven>0</EffortDriven>
-            <Recurring>0</Recurring>
-            <OverAllocated>0</OverAllocated>
-            <Estimated>0</Estimated>
-            <Milestone>0</Milestone>
-            <Summary>1</Summary>
-            <Critical>0</Critical>
-            <IsSubproject>0</IsSubproject>
-            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
-            <ExternalTask>0</ExternalTask>
-            <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
-            <ConstraintType>0</ConstraintType>
-            <CalendarUID>-1</CalendarUID>
-            <LevelAssignments>0</LevelAssignments>
-            <LevelingCanSplit>0</LevelingCanSplit>
-            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
-            <HideBar>0</HideBar>
-            <Rollup>0</Rollup>
-            <EarnedValueMethod>0</EarnedValueMethod>
-            <PredecessorLink>
-                <PredecessorUID>21</PredecessorUID>
-                <Type>1</Type>
-                <CrossProject>0</CrossProject>
-            </PredecessorLink>
-            <Active>1</Active>
-            <Manual>0</Manual>
-        </Task>
-        <Task>
-            <UID>25</UID>
-            <ID>25</ID>
-            <Name>Aplicar aula</Name>
-            <Type>1</Type>
-            <IsNull>0</IsNull>
-            <WBS>1.3.5.5.1</WBS>
-            <OutlineNumber>1.3.5.5.1</OutlineNumber>
-            <OutlineLevel>5</OutlineLevel>
-            <Priority>500</Priority>
-            <Start>2020-05-12T08:00:00</Start>
-            <Finish>2020-05-18T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
-            <DurationFormat>7</DurationFormat>
-            <ResumeValid>0</ResumeValid>
-            <EffortDriven>0</EffortDriven>
-            <Recurring>0</Recurring>
-            <OverAllocated>0</OverAllocated>
-            <Estimated>0</Estimated>
-            <Milestone>0</Milestone>
-            <Summary>0</Summary>
-            <Critical>0</Critical>
-            <IsSubproject>0</IsSubproject>
-            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
-            <ExternalTask>0</ExternalTask>
-            <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
-            <ConstraintType>0</ConstraintType>
-            <CalendarUID>-1</CalendarUID>
-            <LevelAssignments>0</LevelAssignments>
-            <LevelingCanSplit>0</LevelingCanSplit>
-            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
-            <HideBar>0</HideBar>
-            <Rollup>0</Rollup>
-            <EarnedValueMethod>0</EarnedValueMethod>
-            <Active>1</Active>
-            <Manual>0</Manual>
-        </Task>
-        <Task>
-            <UID>26</UID>
-            <ID>26</ID>
-            <Name>Monitorar e controlar aula</Name>
-            <Type>1</Type>
-            <IsNull>0</IsNull>
-            <WBS>1.3.5.5.2</WBS>
-            <OutlineNumber>1.3.5.5.2</OutlineNumber>
-            <OutlineLevel>5</OutlineLevel>
-            <Priority>500</Priority>
-            <Start>2020-05-12T08:00:00</Start>
-            <Finish>2020-05-18T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
-            <DurationFormat>7</DurationFormat>
-            <ResumeValid>0</ResumeValid>
-            <EffortDriven>0</EffortDriven>
-            <Recurring>0</Recurring>
-            <OverAllocated>0</OverAllocated>
-            <Estimated>0</Estimated>
-            <Milestone>0</Milestone>
-            <Summary>0</Summary>
-            <Critical>0</Critical>
-            <IsSubproject>0</IsSubproject>
-            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
-            <ExternalTask>0</ExternalTask>
-            <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
-            <ConstraintType>0</ConstraintType>
-            <CalendarUID>-1</CalendarUID>
-            <LevelAssignments>0</LevelAssignments>
-            <LevelingCanSplit>0</LevelingCanSplit>
-            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
-            <HideBar>0</HideBar>
-            <Rollup>0</Rollup>
-            <EarnedValueMethod>0</EarnedValueMethod>
-            <Active>1</Active>
-            <Manual>0</Manual>
-        </Task>
-        <Task>
-            <UID>27</UID>
-            <ID>27</ID>
+            <UID>31</UID>
+            <ID>31</ID>
             <Name>Aula 6</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
-            <WBS>1.3.5.6</WBS>
-            <OutlineNumber>1.3.5.6</OutlineNumber>
-            <OutlineLevel>4</OutlineLevel>
+            <WBS>1.3.6</WBS>
+            <OutlineNumber>1.3.6</OutlineNumber>
+            <OutlineLevel>3</OutlineLevel>
             <Priority>500</Priority>
-            <Start>2020-05-19T08:00:00</Start>
-            <Finish>2020-05-19T16:59:00</Finish>
-            <Duration>PT8H0M0S</Duration>
+            <Start>2020-05-21T08:00:00</Start>
+            <Finish>2020-05-22T16:59:00</Finish>
+            <Duration>PT16H0M0S</Duration>
             <DurationFormat>7</DurationFormat>
             <ResumeValid>0</ResumeValid>
             <EffortDriven>0</EffortDriven>
@@ -1295,7 +1510,47 @@
             <FixedCostAccrual>3</FixedCostAccrual>
             <PercentComplete>0</PercentComplete>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT8H0M0S</RemainingDuration>
+            <RemainingDuration>PT16H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>32</UID>
+            <ID>32</ID>
+            <Name>Aplicar aula</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.3.6.1</WBS>
+            <OutlineNumber>1.3.6.1</OutlineNumber>
+            <OutlineLevel>4</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-05-21T08:00:00</Start>
+            <Finish>2020-05-22T16:59:00</Finish>
+            <Duration>PT16H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT16H0M0S</RemainingDuration>
             <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
             <LevelAssignments>0</LevelAssignments>
@@ -1305,7 +1560,7 @@
             <Rollup>0</Rollup>
             <EarnedValueMethod>0</EarnedValueMethod>
             <PredecessorLink>
-                <PredecessorUID>24</PredecessorUID>
+                <PredecessorUID>13</PredecessorUID>
                 <Type>1</Type>
                 <CrossProject>0</CrossProject>
             </PredecessorLink>
@@ -1313,58 +1568,18 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>28</UID>
-            <ID>28</ID>
-            <Name>Aplicar aula</Name>
-            <Type>1</Type>
-            <IsNull>0</IsNull>
-            <WBS>1.3.5.6.1</WBS>
-            <OutlineNumber>1.3.5.6.1</OutlineNumber>
-            <OutlineLevel>5</OutlineLevel>
-            <Priority>500</Priority>
-            <Start>2020-05-19T08:00:00</Start>
-            <Finish>2020-05-19T16:59:00</Finish>
-            <Duration>PT8H0M0S</Duration>
-            <DurationFormat>7</DurationFormat>
-            <ResumeValid>0</ResumeValid>
-            <EffortDriven>0</EffortDriven>
-            <Recurring>0</Recurring>
-            <OverAllocated>0</OverAllocated>
-            <Estimated>0</Estimated>
-            <Milestone>0</Milestone>
-            <Summary>0</Summary>
-            <Critical>0</Critical>
-            <IsSubproject>0</IsSubproject>
-            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
-            <ExternalTask>0</ExternalTask>
-            <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT8H0M0S</RemainingDuration>
-            <ConstraintType>0</ConstraintType>
-            <CalendarUID>-1</CalendarUID>
-            <LevelAssignments>0</LevelAssignments>
-            <LevelingCanSplit>0</LevelingCanSplit>
-            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
-            <HideBar>0</HideBar>
-            <Rollup>0</Rollup>
-            <EarnedValueMethod>0</EarnedValueMethod>
-            <Active>1</Active>
-            <Manual>0</Manual>
-        </Task>
-        <Task>
-            <UID>29</UID>
-            <ID>29</ID>
+            <UID>33</UID>
+            <ID>33</ID>
             <Name>Monitorar e controlar aula</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
-            <WBS>1.3.5.6.2</WBS>
-            <OutlineNumber>1.3.5.6.2</OutlineNumber>
-            <OutlineLevel>5</OutlineLevel>
+            <WBS>1.3.6.2</WBS>
+            <OutlineNumber>1.3.6.2</OutlineNumber>
+            <OutlineLevel>4</OutlineLevel>
             <Priority>500</Priority>
-            <Start>2020-05-19T08:00:00</Start>
-            <Finish>2020-05-19T16:59:00</Finish>
-            <Duration>PT8H0M0S</Duration>
+            <Start>2020-05-21T08:00:00</Start>
+            <Finish>2020-05-22T16:59:00</Finish>
+            <Duration>PT16H0M0S</Duration>
             <DurationFormat>7</DurationFormat>
             <ResumeValid>0</ResumeValid>
             <EffortDriven>0</EffortDriven>
@@ -1380,7 +1595,7 @@
             <FixedCostAccrual>3</FixedCostAccrual>
             <PercentComplete>0</PercentComplete>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT8H0M0S</RemainingDuration>
+            <RemainingDuration>PT16H0M0S</RemainingDuration>
             <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
             <LevelAssignments>0</LevelAssignments>
@@ -1389,12 +1604,17 @@
             <HideBar>0</HideBar>
             <Rollup>0</Rollup>
             <EarnedValueMethod>0</EarnedValueMethod>
+            <PredecessorLink>
+                <PredecessorUID>13</PredecessorUID>
+                <Type>1</Type>
+                <CrossProject>0</CrossProject>
+            </PredecessorLink>
             <Active>1</Active>
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>30</UID>
-            <ID>30</ID>
+            <UID>34</UID>
+            <ID>34</ID>
             <Name>Definir projeto</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
@@ -1418,10 +1638,9 @@
             <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
             <ExternalTask>0</ExternalTask>
             <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>73</PercentComplete>
+            <PercentComplete>100</PercentComplete>
             <ActualStart>2020-04-01T08:00:00</ActualStart>
-            <ActualDuration>PT40H52M48S</ActualDuration>
-            <RemainingDuration>PT15H7M12S</RemainingDuration>
+            <ActualDuration>PT56H0M0S</ActualDuration>
             <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
             <LevelAssignments>0</LevelAssignments>
@@ -1430,12 +1649,16 @@
             <HideBar>0</HideBar>
             <Rollup>0</Rollup>
             <EarnedValueMethod>0</EarnedValueMethod>
+            <ExtendedAttribute>
+                <FieldID>188743731</FieldID>
+                <Value>Concluído</Value>
+            </ExtendedAttribute>
             <Active>1</Active>
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>31</UID>
-            <ID>31</ID>
+            <UID>35</UID>
+            <ID>35</ID>
             <Name>Fazer chapter</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
@@ -1478,8 +1701,8 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>32</UID>
-            <ID>32</ID>
+            <UID>36</UID>
+            <ID>36</ID>
             <Name>Fazer Planejamento</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
@@ -1503,10 +1726,9 @@
             <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
             <ExternalTask>0</ExternalTask>
             <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>46</PercentComplete>
+            <PercentComplete>100</PercentComplete>
             <ActualStart>2020-04-01T08:00:00</ActualStart>
-            <ActualDuration>PT25H45M36S</ActualDuration>
-            <RemainingDuration>PT30H14M24S</RemainingDuration>
+            <ActualDuration>PT56H0M0S</ActualDuration>
             <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
             <LevelAssignments>0</LevelAssignments>
@@ -1515,12 +1737,16 @@
             <HideBar>0</HideBar>
             <Rollup>0</Rollup>
             <EarnedValueMethod>0</EarnedValueMethod>
+            <ExtendedAttribute>
+                <FieldID>188743731</FieldID>
+                <Value>Concluído</Value>
+            </ExtendedAttribute>
             <Active>1</Active>
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>33</UID>
-            <ID>33</ID>
+            <UID>37</UID>
+            <ID>37</ID>
             <Name>Elabora WBS</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
@@ -1563,8 +1789,8 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>34</UID>
-            <ID>34</ID>
+            <UID>38</UID>
+            <ID>38</ID>
             <Name>Identificar linha critica</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
@@ -1600,7 +1826,7 @@
             <Rollup>0</Rollup>
             <EarnedValueMethod>0</EarnedValueMethod>
             <PredecessorLink>
-                <PredecessorUID>33</PredecessorUID>
+                <PredecessorUID>37</PredecessorUID>
                 <Type>1</Type>
                 <CrossProject>0</CrossProject>
             </PredecessorLink>
@@ -1612,8 +1838,8 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>35</UID>
-            <ID>35</ID>
+            <UID>39</UID>
+            <ID>39</ID>
             <Name>Fazer Cronograma</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
@@ -1649,7 +1875,7 @@
             <Rollup>0</Rollup>
             <EarnedValueMethod>0</EarnedValueMethod>
             <PredecessorLink>
-                <PredecessorUID>33</PredecessorUID>
+                <PredecessorUID>37</PredecessorUID>
                 <Type>1</Type>
                 <CrossProject>0</CrossProject>
             </PredecessorLink>
@@ -1661,8 +1887,8 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>36</UID>
-            <ID>36</ID>
+            <UID>40</UID>
+            <ID>40</ID>
             <Name>Detalhamento do Processo</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
@@ -1686,9 +1912,9 @@
             <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
             <ExternalTask>0</ExternalTask>
             <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
+            <PercentComplete>100</PercentComplete>
+            <ActualStart>2020-04-01T08:00:00</ActualStart>
+            <ActualDuration>PT56H0M0S</ActualDuration>
             <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
             <LevelAssignments>0</LevelAssignments>
@@ -1699,14 +1925,14 @@
             <EarnedValueMethod>0</EarnedValueMethod>
             <ExtendedAttribute>
                 <FieldID>188743731</FieldID>
-                <Value>Em andamento</Value>
+                <Value>Concluído</Value>
             </ExtendedAttribute>
             <Active>1</Active>
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>37</UID>
-            <ID>37</ID>
+            <UID>41</UID>
+            <ID>41</ID>
             <Name>Definir requisito</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
@@ -1730,9 +1956,9 @@
             <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
             <ExternalTask>0</ExternalTask>
             <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
+            <PercentComplete>100</PercentComplete>
+            <ActualStart>2020-04-01T08:00:00</ActualStart>
+            <ActualDuration>PT56H0M0S</ActualDuration>
             <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
             <LevelAssignments>0</LevelAssignments>
@@ -1743,14 +1969,14 @@
             <EarnedValueMethod>0</EarnedValueMethod>
             <ExtendedAttribute>
                 <FieldID>188743731</FieldID>
-                <Value>Em andamento</Value>
+                <Value>Concluído</Value>
             </ExtendedAttribute>
             <Active>1</Active>
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>38</UID>
-            <ID>38</ID>
+            <UID>42</UID>
+            <ID>42</ID>
             <Name>Entregar planejamento</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
@@ -1789,8 +2015,8 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>39</UID>
-            <ID>39</ID>
+            <UID>43</UID>
+            <ID>43</ID>
             <Name>Coletar primeiros resultados obtidos</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
@@ -1829,8 +2055,8 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>40</UID>
-            <ID>40</ID>
+            <UID>44</UID>
+            <ID>44</ID>
             <Name>Planejar processos de monitoramento e controle</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
@@ -1869,8 +2095,8 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>41</UID>
-            <ID>41</ID>
+            <UID>45</UID>
+            <ID>45</ID>
             <Name>Entregar documentos de "evidência objetiva"</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
@@ -1879,8 +2105,8 @@
             <OutlineLevel>2</OutlineLevel>
             <Priority>500</Priority>
             <Start>2020-04-28T08:00:00</Start>
-            <Finish>2020-05-04T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
+            <Finish>2020-05-05T16:59:00</Finish>
+            <Duration>PT64H0M0S</Duration>
             <DurationFormat>7</DurationFormat>
             <ResumeValid>0</ResumeValid>
             <EffortDriven>0</EffortDriven>
@@ -1896,167 +2122,7 @@
             <FixedCostAccrual>3</FixedCostAccrual>
             <PercentComplete>0</PercentComplete>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
-            <ConstraintType>0</ConstraintType>
-            <CalendarUID>-1</CalendarUID>
-            <LevelAssignments>0</LevelAssignments>
-            <LevelingCanSplit>0</LevelingCanSplit>
-            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
-            <HideBar>0</HideBar>
-            <Rollup>0</Rollup>
-            <EarnedValueMethod>0</EarnedValueMethod>
-            <Active>1</Active>
-            <Manual>0</Manual>
-        </Task>
-        <Task>
-            <UID>42</UID>
-            <ID>42</ID>
-            <Name>Fazer Documento de execução</Name>
-            <Type>1</Type>
-            <IsNull>0</IsNull>
-            <WBS>1.6.1</WBS>
-            <OutlineNumber>1.6.1</OutlineNumber>
-            <OutlineLevel>3</OutlineLevel>
-            <Priority>500</Priority>
-            <Start>2020-04-28T08:00:00</Start>
-            <Finish>2020-05-04T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
-            <DurationFormat>7</DurationFormat>
-            <ResumeValid>0</ResumeValid>
-            <EffortDriven>0</EffortDriven>
-            <Recurring>0</Recurring>
-            <OverAllocated>0</OverAllocated>
-            <Estimated>0</Estimated>
-            <Milestone>0</Milestone>
-            <Summary>0</Summary>
-            <Critical>0</Critical>
-            <IsSubproject>0</IsSubproject>
-            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
-            <ExternalTask>0</ExternalTask>
-            <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
-            <ConstraintType>0</ConstraintType>
-            <CalendarUID>-1</CalendarUID>
-            <LevelAssignments>0</LevelAssignments>
-            <LevelingCanSplit>0</LevelingCanSplit>
-            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
-            <HideBar>0</HideBar>
-            <Rollup>0</Rollup>
-            <EarnedValueMethod>0</EarnedValueMethod>
-            <Active>1</Active>
-            <Manual>0</Manual>
-        </Task>
-        <Task>
-            <UID>43</UID>
-            <ID>43</ID>
-            <Name>Fazer Documento de monitoramento  e controle</Name>
-            <Type>1</Type>
-            <IsNull>0</IsNull>
-            <WBS>1.6.2</WBS>
-            <OutlineNumber>1.6.2</OutlineNumber>
-            <OutlineLevel>3</OutlineLevel>
-            <Priority>500</Priority>
-            <Start>2020-04-28T08:00:00</Start>
-            <Finish>2020-05-04T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
-            <DurationFormat>7</DurationFormat>
-            <ResumeValid>0</ResumeValid>
-            <EffortDriven>0</EffortDriven>
-            <Recurring>0</Recurring>
-            <OverAllocated>0</OverAllocated>
-            <Estimated>0</Estimated>
-            <Milestone>0</Milestone>
-            <Summary>0</Summary>
-            <Critical>0</Critical>
-            <IsSubproject>0</IsSubproject>
-            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
-            <ExternalTask>0</ExternalTask>
-            <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
-            <ConstraintType>0</ConstraintType>
-            <CalendarUID>-1</CalendarUID>
-            <LevelAssignments>0</LevelAssignments>
-            <LevelingCanSplit>0</LevelingCanSplit>
-            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
-            <HideBar>0</HideBar>
-            <Rollup>0</Rollup>
-            <EarnedValueMethod>0</EarnedValueMethod>
-            <Active>1</Active>
-            <Manual>0</Manual>
-        </Task>
-        <Task>
-            <UID>44</UID>
-            <ID>44</ID>
-            <Name>Fazer Documento de dos resultados obtidos</Name>
-            <Type>1</Type>
-            <IsNull>0</IsNull>
-            <WBS>1.6.3</WBS>
-            <OutlineNumber>1.6.3</OutlineNumber>
-            <OutlineLevel>3</OutlineLevel>
-            <Priority>500</Priority>
-            <Start>2020-04-28T08:00:00</Start>
-            <Finish>2020-05-04T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
-            <DurationFormat>7</DurationFormat>
-            <ResumeValid>0</ResumeValid>
-            <EffortDriven>0</EffortDriven>
-            <Recurring>0</Recurring>
-            <OverAllocated>0</OverAllocated>
-            <Estimated>0</Estimated>
-            <Milestone>0</Milestone>
-            <Summary>0</Summary>
-            <Critical>0</Critical>
-            <IsSubproject>0</IsSubproject>
-            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
-            <ExternalTask>0</ExternalTask>
-            <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
-            <ConstraintType>0</ConstraintType>
-            <CalendarUID>-1</CalendarUID>
-            <LevelAssignments>0</LevelAssignments>
-            <LevelingCanSplit>0</LevelingCanSplit>
-            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
-            <HideBar>0</HideBar>
-            <Rollup>0</Rollup>
-            <EarnedValueMethod>0</EarnedValueMethod>
-            <Active>1</Active>
-            <Manual>0</Manual>
-        </Task>
-        <Task>
-            <UID>45</UID>
-            <ID>45</ID>
-            <Name>Fazer planejamento Futuro</Name>
-            <Type>1</Type>
-            <IsNull>0</IsNull>
-            <WBS>1.6.4</WBS>
-            <OutlineNumber>1.6.4</OutlineNumber>
-            <OutlineLevel>3</OutlineLevel>
-            <Priority>500</Priority>
-            <Start>2020-04-28T08:00:00</Start>
-            <Finish>2020-05-04T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
-            <DurationFormat>7</DurationFormat>
-            <ResumeValid>0</ResumeValid>
-            <EffortDriven>0</EffortDriven>
-            <Recurring>0</Recurring>
-            <OverAllocated>0</OverAllocated>
-            <Estimated>0</Estimated>
-            <Milestone>0</Milestone>
-            <Summary>0</Summary>
-            <Critical>0</Critical>
-            <IsSubproject>0</IsSubproject>
-            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
-            <ExternalTask>0</ExternalTask>
-            <FixedCostAccrual>3</FixedCostAccrual>
-            <PercentComplete>0</PercentComplete>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
+            <RemainingDuration>PT64H0M0S</RemainingDuration>
             <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
             <LevelAssignments>0</LevelAssignments>
@@ -2071,6 +2137,166 @@
         <Task>
             <UID>46</UID>
             <ID>46</ID>
+            <Name>Fazer Documento de execução</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.6.1</WBS>
+            <OutlineNumber>1.6.1</OutlineNumber>
+            <OutlineLevel>3</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-04-28T08:00:00</Start>
+            <Finish>2020-05-05T16:59:00</Finish>
+            <Duration>PT64H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT64H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>47</UID>
+            <ID>47</ID>
+            <Name>Fazer Documento de monitoramento  e controle</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.6.2</WBS>
+            <OutlineNumber>1.6.2</OutlineNumber>
+            <OutlineLevel>3</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-04-28T08:00:00</Start>
+            <Finish>2020-05-05T16:59:00</Finish>
+            <Duration>PT64H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT64H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>48</UID>
+            <ID>48</ID>
+            <Name>Fazer Documento de dos resultados obtidos</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.6.3</WBS>
+            <OutlineNumber>1.6.3</OutlineNumber>
+            <OutlineLevel>3</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-04-28T08:00:00</Start>
+            <Finish>2020-05-05T16:59:00</Finish>
+            <Duration>PT64H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT64H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>49</UID>
+            <ID>49</ID>
+            <Name>Fazer planejamento Futuro</Name>
+            <Type>1</Type>
+            <IsNull>0</IsNull>
+            <WBS>1.6.4</WBS>
+            <OutlineNumber>1.6.4</OutlineNumber>
+            <OutlineLevel>3</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2020-04-28T08:00:00</Start>
+            <Finish>2020-05-05T16:59:00</Finish>
+            <Duration>PT64H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>0</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>3</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <RemainingDuration>PT64H0M0S</RemainingDuration>
+            <ConstraintType>0</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>50</UID>
+            <ID>50</ID>
             <Name>Entregar todos documentos</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
@@ -2078,9 +2304,9 @@
             <OutlineNumber>1.7</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
             <Priority>500</Priority>
-            <Start>2020-05-20T08:00:00</Start>
+            <Start>2020-05-23T08:00:00</Start>
             <Finish>2020-06-09T16:59:00</Finish>
-            <Duration>PT168H0M0S</Duration>
+            <Duration>PT144H0M0S</Duration>
             <DurationFormat>7</DurationFormat>
             <ResumeValid>0</ResumeValid>
             <EffortDriven>0</EffortDriven>
@@ -2096,7 +2322,7 @@
             <FixedCostAccrual>3</FixedCostAccrual>
             <PercentComplete>0</PercentComplete>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT168H0M0S</RemainingDuration>
+            <RemainingDuration>PT144H0M0S</RemainingDuration>
             <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
             <LevelAssignments>0</LevelAssignments>
@@ -2106,7 +2332,7 @@
             <Rollup>0</Rollup>
             <EarnedValueMethod>0</EarnedValueMethod>
             <PredecessorLink>
-                <PredecessorUID>27</PredecessorUID>
+                <PredecessorUID>31</PredecessorUID>
                 <Type>1</Type>
                 <CrossProject>0</CrossProject>
             </PredecessorLink>
@@ -2114,8 +2340,8 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>47</UID>
-            <ID>47</ID>
+            <UID>51</UID>
+            <ID>51</ID>
             <Name>Fazer documentação</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
@@ -2123,9 +2349,9 @@
             <OutlineNumber>1.7.1</OutlineNumber>
             <OutlineLevel>3</OutlineLevel>
             <Priority>500</Priority>
-            <Start>2020-05-20T08:00:00</Start>
+            <Start>2020-05-23T08:00:00</Start>
             <Finish>2020-06-09T16:59:00</Finish>
-            <Duration>PT168H0M0S</Duration>
+            <Duration>PT144H0M0S</Duration>
             <DurationFormat>7</DurationFormat>
             <ResumeValid>0</ResumeValid>
             <EffortDriven>0</EffortDriven>
@@ -2141,7 +2367,7 @@
             <FixedCostAccrual>3</FixedCostAccrual>
             <PercentComplete>0</PercentComplete>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT168H0M0S</RemainingDuration>
+            <RemainingDuration>PT144H0M0S</RemainingDuration>
             <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
             <LevelAssignments>0</LevelAssignments>
@@ -2154,8 +2380,8 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>48</UID>
-            <ID>48</ID>
+            <UID>52</UID>
+            <ID>52</ID>
             <Name>Elaborar previa de apresentação</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
@@ -2163,9 +2389,9 @@
             <OutlineNumber>1.7.2</OutlineNumber>
             <OutlineLevel>3</OutlineLevel>
             <Priority>500</Priority>
-            <Start>2020-05-20T08:00:00</Start>
+            <Start>2020-05-23T08:00:00</Start>
             <Finish>2020-06-09T16:59:00</Finish>
-            <Duration>PT168H0M0S</Duration>
+            <Duration>PT144H0M0S</Duration>
             <DurationFormat>7</DurationFormat>
             <ResumeValid>0</ResumeValid>
             <EffortDriven>0</EffortDriven>
@@ -2181,7 +2407,7 @@
             <FixedCostAccrual>3</FixedCostAccrual>
             <PercentComplete>0</PercentComplete>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT168H0M0S</RemainingDuration>
+            <RemainingDuration>PT144H0M0S</RemainingDuration>
             <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
             <LevelAssignments>0</LevelAssignments>
@@ -2194,8 +2420,8 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>49</UID>
-            <ID>49</ID>
+            <UID>53</UID>
+            <ID>53</ID>
             <Name>Apresentar trabalho final</Name>
             <Type>1</Type>
             <IsNull>0</IsNull>
@@ -2204,8 +2430,8 @@
             <OutlineLevel>2</OutlineLevel>
             <Priority>500</Priority>
             <Start>2020-06-10T08:00:00</Start>
-            <Finish>2020-06-16T16:59:00</Finish>
-            <Duration>PT56H0M0S</Duration>
+            <Finish>2020-06-12T16:59:00</Finish>
+            <Duration>PT24H0M0S</Duration>
             <DurationFormat>7</DurationFormat>
             <ResumeValid>0</ResumeValid>
             <EffortDriven>0</EffortDriven>
@@ -2221,7 +2447,7 @@
             <FixedCostAccrual>3</FixedCostAccrual>
             <PercentComplete>0</PercentComplete>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <RemainingDuration>PT56H0M0S</RemainingDuration>
+            <RemainingDuration>PT24H0M0S</RemainingDuration>
             <ConstraintType>0</ConstraintType>
             <CalendarUID>-1</CalendarUID>
             <LevelAssignments>0</LevelAssignments>
@@ -2231,7 +2457,7 @@
             <Rollup>0</Rollup>
             <EarnedValueMethod>0</EarnedValueMethod>
             <PredecessorLink>
-                <PredecessorUID>46</PredecessorUID>
+                <PredecessorUID>50</PredecessorUID>
                 <Type>1</Type>
                 <CrossProject>0</CrossProject>
             </PredecessorLink>
@@ -2293,7 +2519,7 @@
             <PeakUnits>1</PeakUnits>
             <OverAllocated>0</OverAllocated>
             <Start>2020-04-01T08:00:00</Start>
-            <Finish>2020-05-11T16:59:00</Finish>
+            <Finish>2020-05-08T16:59:00</Finish>
             <CanLevel>0</CanLevel>
             <StandardRateFormat>3</StandardRateFormat>
             <OvertimeRateFormat>3</OvertimeRateFormat>
@@ -2314,7 +2540,7 @@
             <PeakUnits>1</PeakUnits>
             <OverAllocated>0</OverAllocated>
             <Start>2020-04-01T08:00:00</Start>
-            <Finish>2020-06-16T16:59:00</Finish>
+            <Finish>2020-06-12T16:59:00</Finish>
             <CanLevel>0</CanLevel>
             <StandardRateFormat>3</StandardRateFormat>
             <OvertimeRateFormat>3</OvertimeRateFormat>
@@ -2335,7 +2561,7 @@
             <PeakUnits>1</PeakUnits>
             <OverAllocated>0</OverAllocated>
             <Start>2020-04-01T08:00:00</Start>
-            <Finish>2020-05-18T16:59:00</Finish>
+            <Finish>2020-05-15T16:59:00</Finish>
             <CanLevel>0</CanLevel>
             <StandardRateFormat>3</StandardRateFormat>
             <OvertimeRateFormat>3</OvertimeRateFormat>
@@ -2351,286 +2577,272 @@
             <UID>1</UID>
             <TaskUID>1</TaskUID>
             <ResourceUID>4</ResourceUID>
-            <PercentWorkComplete>5</PercentWorkComplete>
-            <ActualWork>PT30H48M0S</ActualWork>
-            <Finish>2020-06-16T16:59:00</Finish>
+            <PercentWorkComplete>32</PercentWorkComplete>
+            <ActualWork>PT186H52M48S</ActualWork>
+            <Finish>2020-06-12T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT585H11M60S</RemainingWork>
+            <RemainingWork>PT397H7M12S</RemainingWork>
             <Start>2020-04-01T08:00:00</Start>
-            <Stop>2020-04-04T15:48:00</Stop>
+            <Stop>2020-04-24T10:52:00</Stop>
             <Units>1</Units>
-            <Work>PT616H0M0S</Work>
+            <Work>PT584H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>2</UID>
-            <TaskUID>2</TaskUID>
-            <ResourceUID>3</ResourceUID>
-            <PercentWorkComplete>0</PercentWorkComplete>
+            <TaskUID>3</TaskUID>
+            <ResourceUID>5</ResourceUID>
+            <PercentWorkComplete>100</PercentWorkComplete>
+            <ActualWork>PT56H0M0S</ActualWork>
             <Finish>2020-04-07T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT56H0M0S</RemainingWork>
             <Start>2020-04-01T08:00:00</Start>
-            <Stop>2020-04-01T08:00:00</Stop>
+            <Stop>2020-04-08T08:00:00</Stop>
             <Units>1</Units>
             <Work>PT56H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>3</UID>
-            <TaskUID>3</TaskUID>
-            <ResourceUID>5</ResourceUID>
-            <PercentWorkComplete>0</PercentWorkComplete>
+            <TaskUID>4</TaskUID>
+            <ResourceUID>3</ResourceUID>
+            <PercentWorkComplete>100</PercentWorkComplete>
+            <ActualWork>PT56H0M0S</ActualWork>
             <Finish>2020-04-07T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT56H0M0S</RemainingWork>
             <Start>2020-04-01T08:00:00</Start>
-            <Stop>2020-04-01T08:00:00</Stop>
+            <Stop>2020-04-08T08:00:00</Stop>
             <Units>1</Units>
             <Work>PT56H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>4</UID>
             <TaskUID>5</TaskUID>
-            <ResourceUID>5</ResourceUID>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-04-08T16:59:00</Finish>
+            <ResourceUID>1</ResourceUID>
+            <PercentWorkComplete>100</PercentWorkComplete>
+            <ActualWork>PT112H0M0S</ActualWork>
+            <Finish>2020-04-15T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT8H0M0S</RemainingWork>
-            <Start>2020-04-08T08:00:00</Start>
-            <Stop>2020-04-08T08:00:00</Stop>
+            <Start>2020-04-02T08:00:00</Start>
+            <Stop>2020-04-16T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT8H0M0S</Work>
+            <Work>PT112H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>5</UID>
-            <TaskUID>6</TaskUID>
-            <ResourceUID>1</ResourceUID>
+            <TaskUID>7</TaskUID>
+            <ResourceUID>2</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-04-08T16:59:00</Finish>
+            <Finish>2020-04-20T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT56H0M0S</RemainingWork>
-            <Start>2020-04-02T08:00:00</Start>
-            <Stop>2020-04-02T08:00:00</Stop>
+            <RemainingWork>PT40H0M0S</RemainingWork>
+            <Start>2020-04-16T08:00:00</Start>
+            <Stop>2020-04-16T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT56H0M0S</Work>
+            <Work>PT40H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>6</UID>
             <TaskUID>8</TaskUID>
-            <ResourceUID>2</ResourceUID>
+            <ResourceUID>3</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-04-13T16:59:00</Finish>
+            <Finish>2020-04-16T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT40H0M0S</RemainingWork>
-            <Start>2020-04-09T08:00:00</Start>
-            <Stop>2020-04-09T08:00:00</Stop>
+            <RemainingWork>PT16H0M0S</RemainingWork>
+            <Start>2020-04-15T08:00:00</Start>
+            <Stop>2020-04-15T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT40H0M0S</Work>
+            <Work>PT16H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>7</UID>
-            <TaskUID>9</TaskUID>
-            <ResourceUID>3</ResourceUID>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-04-13T16:59:00</Finish>
-            <HasFixedRateUnits>1</HasFixedRateUnits>
-            <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT40H0M0S</RemainingWork>
-            <Start>2020-04-09T08:00:00</Start>
-            <Stop>2020-04-09T08:00:00</Stop>
-            <Units>1</Units>
-            <Work>PT40H0M0S</Work>
-        </Assignment>
-        <Assignment>
-            <UID>8</UID>
-            <TaskUID>10</TaskUID>
+            <TaskUID>14</TaskUID>
             <ResourceUID>4</ResourceUID>
-            <PercentWorkComplete>0</PercentWorkComplete>
+            <PercentWorkComplete>100</PercentWorkComplete>
+            <ActualWork>PT104H0M0S</ActualWork>
             <Finish>2020-04-13T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT104H0M0S</RemainingWork>
             <Start>2020-04-01T08:00:00</Start>
-            <Stop>2020-04-01T08:00:00</Stop>
+            <Stop>2020-04-14T08:00:00</Stop>
             <Units>1</Units>
             <Work>PT104H0M0S</Work>
         </Assignment>
         <Assignment>
-            <UID>9</UID>
-            <TaskUID>13</TaskUID>
+            <UID>8</UID>
+            <TaskUID>17</TaskUID>
             <ResourceUID>1</ResourceUID>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-04-20T16:59:00</Finish>
+            <PercentWorkComplete>100</PercentWorkComplete>
+            <ActualWork>PT8H0M0S</ActualWork>
+            <Finish>2020-04-17T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT56H0M0S</RemainingWork>
-            <Start>2020-04-14T08:00:00</Start>
-            <Stop>2020-04-14T08:00:00</Stop>
+            <Start>2020-04-17T08:00:00</Start>
+            <Stop>2020-04-18T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT56H0M0S</Work>
+            <Work>PT8H0M0S</Work>
+        </Assignment>
+        <Assignment>
+            <UID>9</UID>
+            <TaskUID>18</TaskUID>
+            <ResourceUID>4</ResourceUID>
+            <PercentWorkComplete>100</PercentWorkComplete>
+            <ActualWork>PT8H0M0S</ActualWork>
+            <Finish>2020-04-17T16:59:00</Finish>
+            <HasFixedRateUnits>1</HasFixedRateUnits>
+            <FixedMaterial>0</FixedMaterial>
+            <Start>2020-04-17T08:00:00</Start>
+            <Stop>2020-04-18T08:00:00</Stop>
+            <Units>1</Units>
+            <Work>PT8H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>10</UID>
-            <TaskUID>14</TaskUID>
-            <ResourceUID>4</ResourceUID>
+            <TaskUID>20</TaskUID>
+            <ResourceUID>3</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-04-20T16:59:00</Finish>
+            <Finish>2020-04-24T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT56H0M0S</RemainingWork>
-            <Start>2020-04-14T08:00:00</Start>
-            <Stop>2020-04-14T08:00:00</Stop>
+            <RemainingWork>PT16H0M0S</RemainingWork>
+            <Start>2020-04-23T08:00:00</Start>
+            <Stop>2020-04-23T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT56H0M0S</Work>
+            <Work>PT16H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>11</UID>
-            <TaskUID>16</TaskUID>
-            <ResourceUID>3</ResourceUID>
+            <TaskUID>21</TaskUID>
+            <ResourceUID>5</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-04-27T16:59:00</Finish>
+            <Finish>2020-04-24T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT56H0M0S</RemainingWork>
-            <Start>2020-04-21T08:00:00</Start>
-            <Stop>2020-04-21T08:00:00</Stop>
+            <RemainingWork>PT16H0M0S</RemainingWork>
+            <Start>2020-04-23T08:00:00</Start>
+            <Stop>2020-04-23T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT56H0M0S</Work>
+            <Work>PT16H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>12</UID>
-            <TaskUID>17</TaskUID>
-            <ResourceUID>5</ResourceUID>
+            <TaskUID>23</TaskUID>
+            <ResourceUID>1</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-04-27T16:59:00</Finish>
+            <Finish>2020-05-01T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT56H0M0S</RemainingWork>
-            <Start>2020-04-21T08:00:00</Start>
-            <Stop>2020-04-21T08:00:00</Stop>
+            <RemainingWork>PT16H0M0S</RemainingWork>
+            <Start>2020-04-30T08:00:00</Start>
+            <Stop>2020-04-30T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT56H0M0S</Work>
+            <Work>PT16H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>13</UID>
-            <TaskUID>19</TaskUID>
-            <ResourceUID>1</ResourceUID>
+            <TaskUID>24</TaskUID>
+            <ResourceUID>2</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-05-04T16:59:00</Finish>
+            <Finish>2020-05-01T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT56H0M0S</RemainingWork>
-            <Start>2020-04-28T08:00:00</Start>
-            <Stop>2020-04-28T08:00:00</Stop>
+            <RemainingWork>PT16H0M0S</RemainingWork>
+            <Start>2020-04-30T08:00:00</Start>
+            <Stop>2020-04-30T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT56H0M0S</Work>
+            <Work>PT16H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>14</UID>
-            <TaskUID>20</TaskUID>
-            <ResourceUID>2</ResourceUID>
+            <TaskUID>26</TaskUID>
+            <ResourceUID>4</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-05-04T16:59:00</Finish>
+            <Finish>2020-05-08T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT56H0M0S</RemainingWork>
-            <Start>2020-04-28T08:00:00</Start>
-            <Stop>2020-04-28T08:00:00</Stop>
+            <RemainingWork>PT16H0M0S</RemainingWork>
+            <Start>2020-05-07T08:00:00</Start>
+            <Stop>2020-05-07T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT56H0M0S</Work>
+            <Work>PT16H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>15</UID>
-            <TaskUID>22</TaskUID>
-            <ResourceUID>4</ResourceUID>
+            <TaskUID>27</TaskUID>
+            <ResourceUID>3</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-05-11T16:59:00</Finish>
+            <Finish>2020-05-08T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT56H0M0S</RemainingWork>
-            <Start>2020-05-05T08:00:00</Start>
-            <Stop>2020-05-05T08:00:00</Stop>
+            <RemainingWork>PT16H0M0S</RemainingWork>
+            <Start>2020-05-07T08:00:00</Start>
+            <Stop>2020-05-07T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT56H0M0S</Work>
+            <Work>PT16H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>16</UID>
-            <TaskUID>23</TaskUID>
-            <ResourceUID>3</ResourceUID>
+            <TaskUID>29</TaskUID>
+            <ResourceUID>5</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-05-11T16:59:00</Finish>
+            <Finish>2020-05-15T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT56H0M0S</RemainingWork>
-            <Start>2020-05-05T08:00:00</Start>
-            <Stop>2020-05-05T08:00:00</Stop>
+            <RemainingWork>PT16H0M0S</RemainingWork>
+            <Start>2020-05-14T08:00:00</Start>
+            <Stop>2020-05-14T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT56H0M0S</Work>
+            <Work>PT16H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>17</UID>
-            <TaskUID>25</TaskUID>
-            <ResourceUID>5</ResourceUID>
+            <TaskUID>30</TaskUID>
+            <ResourceUID>2</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-05-18T16:59:00</Finish>
+            <Finish>2020-05-15T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT56H0M0S</RemainingWork>
-            <Start>2020-05-12T08:00:00</Start>
-            <Stop>2020-05-12T08:00:00</Stop>
+            <RemainingWork>PT16H0M0S</RemainingWork>
+            <Start>2020-05-14T08:00:00</Start>
+            <Stop>2020-05-14T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT56H0M0S</Work>
+            <Work>PT16H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>18</UID>
-            <TaskUID>26</TaskUID>
-            <ResourceUID>2</ResourceUID>
+            <TaskUID>32</TaskUID>
+            <ResourceUID>4</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-05-18T16:59:00</Finish>
+            <Finish>2020-05-22T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT56H0M0S</RemainingWork>
-            <Start>2020-05-12T08:00:00</Start>
-            <Stop>2020-05-12T08:00:00</Stop>
+            <RemainingWork>PT16H0M0S</RemainingWork>
+            <Start>2020-05-21T08:00:00</Start>
+            <Stop>2020-05-21T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT56H0M0S</Work>
+            <Work>PT16H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>19</UID>
-            <TaskUID>28</TaskUID>
-            <ResourceUID>4</ResourceUID>
+            <TaskUID>33</TaskUID>
+            <ResourceUID>1</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-05-19T16:59:00</Finish>
+            <Finish>2020-05-22T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT8H0M0S</RemainingWork>
-            <Start>2020-05-19T08:00:00</Start>
-            <Stop>2020-05-19T08:00:00</Stop>
+            <RemainingWork>PT16H0M0S</RemainingWork>
+            <Start>2020-05-21T08:00:00</Start>
+            <Stop>2020-05-21T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT8H0M0S</Work>
+            <Work>PT16H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>20</UID>
-            <TaskUID>29</TaskUID>
-            <ResourceUID>1</ResourceUID>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-05-19T16:59:00</Finish>
-            <HasFixedRateUnits>1</HasFixedRateUnits>
-            <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT8H0M0S</RemainingWork>
-            <Start>2020-05-19T08:00:00</Start>
-            <Stop>2020-05-19T08:00:00</Stop>
-            <Units>1</Units>
-            <Work>PT8H0M0S</Work>
-        </Assignment>
-        <Assignment>
-            <UID>21</UID>
-            <TaskUID>31</TaskUID>
+            <TaskUID>35</TaskUID>
             <ResourceUID>2</ResourceUID>
             <PercentWorkComplete>100</PercentWorkComplete>
             <ActualWork>PT56H0M0S</ActualWork>
@@ -2643,8 +2855,8 @@
             <Work>PT56H0M0S</Work>
         </Assignment>
         <Assignment>
-            <UID>22</UID>
-            <TaskUID>33</TaskUID>
+            <UID>21</UID>
+            <TaskUID>37</TaskUID>
             <ResourceUID>4</ResourceUID>
             <PercentWorkComplete>100</PercentWorkComplete>
             <ActualWork>PT16H0M0S</ActualWork>
@@ -2657,8 +2869,22 @@
             <Work>PT16H0M0S</Work>
         </Assignment>
         <Assignment>
+            <UID>22</UID>
+            <TaskUID>38</TaskUID>
+            <ResourceUID>4</ResourceUID>
+            <PercentWorkComplete>100</PercentWorkComplete>
+            <ActualWork>PT40H0M0S</ActualWork>
+            <Finish>2020-04-07T16:59:00</Finish>
+            <HasFixedRateUnits>1</HasFixedRateUnits>
+            <FixedMaterial>0</FixedMaterial>
+            <Start>2020-04-03T08:00:00</Start>
+            <Stop>2020-04-08T08:00:00</Stop>
+            <Units>1</Units>
+            <Work>PT40H0M0S</Work>
+        </Assignment>
+        <Assignment>
             <UID>23</UID>
-            <TaskUID>34</TaskUID>
+            <TaskUID>39</TaskUID>
             <ResourceUID>4</ResourceUID>
             <PercentWorkComplete>100</PercentWorkComplete>
             <ActualWork>PT40H0M0S</ActualWork>
@@ -2672,49 +2898,35 @@
         </Assignment>
         <Assignment>
             <UID>24</UID>
-            <TaskUID>35</TaskUID>
-            <ResourceUID>4</ResourceUID>
+            <TaskUID>40</TaskUID>
+            <ResourceUID>1</ResourceUID>
             <PercentWorkComplete>100</PercentWorkComplete>
-            <ActualWork>PT40H0M0S</ActualWork>
+            <ActualWork>PT56H0M0S</ActualWork>
             <Finish>2020-04-07T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <Start>2020-04-03T08:00:00</Start>
+            <Start>2020-04-01T08:00:00</Start>
             <Stop>2020-04-08T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT40H0M0S</Work>
+            <Work>PT56H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>25</UID>
-            <TaskUID>36</TaskUID>
+            <TaskUID>41</TaskUID>
             <ResourceUID>1</ResourceUID>
-            <PercentWorkComplete>0</PercentWorkComplete>
+            <PercentWorkComplete>100</PercentWorkComplete>
+            <ActualWork>PT56H0M0S</ActualWork>
             <Finish>2020-04-07T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT56H0M0S</RemainingWork>
             <Start>2020-04-01T08:00:00</Start>
-            <Stop>2020-04-01T08:00:00</Stop>
+            <Stop>2020-04-08T08:00:00</Stop>
             <Units>1</Units>
             <Work>PT56H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>26</UID>
-            <TaskUID>37</TaskUID>
-            <ResourceUID>1</ResourceUID>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-04-07T16:59:00</Finish>
-            <HasFixedRateUnits>1</HasFixedRateUnits>
-            <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT56H0M0S</RemainingWork>
-            <Start>2020-04-01T08:00:00</Start>
-            <Stop>2020-04-01T08:00:00</Stop>
-            <Units>1</Units>
-            <Work>PT56H0M0S</Work>
-        </Assignment>
-        <Assignment>
-            <UID>27</UID>
-            <TaskUID>38</TaskUID>
+            <TaskUID>42</TaskUID>
             <ResourceUID>4</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
             <Finish>2020-04-28T16:59:00</Finish>
@@ -2727,155 +2939,194 @@
             <Work>PT40H0M0S</Work>
         </Assignment>
         <Assignment>
-            <UID>28</UID>
-            <TaskUID>41</TaskUID>
+            <UID>27</UID>
+            <TaskUID>45</TaskUID>
             <ResourceUID>4</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-05-04T16:59:00</Finish>
+            <Finish>2020-05-05T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT56H0M0S</RemainingWork>
+            <RemainingWork>PT64H0M0S</RemainingWork>
             <Start>2020-04-28T08:00:00</Start>
             <Stop>2020-04-28T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT56H0M0S</Work>
+            <Work>PT64H0M0S</Work>
+        </Assignment>
+        <Assignment>
+            <UID>28</UID>
+            <TaskUID>46</TaskUID>
+            <ResourceUID>1</ResourceUID>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <Finish>2020-05-05T16:59:00</Finish>
+            <HasFixedRateUnits>1</HasFixedRateUnits>
+            <FixedMaterial>0</FixedMaterial>
+            <RemainingWork>PT64H0M0S</RemainingWork>
+            <Start>2020-04-28T08:00:00</Start>
+            <Stop>2020-04-28T08:00:00</Stop>
+            <Units>1</Units>
+            <Work>PT64H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>29</UID>
-            <TaskUID>42</TaskUID>
-            <ResourceUID>1</ResourceUID>
+            <TaskUID>47</TaskUID>
+            <ResourceUID>5</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-05-04T16:59:00</Finish>
+            <Finish>2020-05-05T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT56H0M0S</RemainingWork>
+            <RemainingWork>PT64H0M0S</RemainingWork>
             <Start>2020-04-28T08:00:00</Start>
             <Stop>2020-04-28T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT56H0M0S</Work>
+            <Work>PT64H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>30</UID>
-            <TaskUID>43</TaskUID>
-            <ResourceUID>5</ResourceUID>
+            <TaskUID>48</TaskUID>
+            <ResourceUID>2</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-05-04T16:59:00</Finish>
+            <Finish>2020-05-05T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT56H0M0S</RemainingWork>
+            <RemainingWork>PT64H0M0S</RemainingWork>
             <Start>2020-04-28T08:00:00</Start>
             <Stop>2020-04-28T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT56H0M0S</Work>
+            <Work>PT64H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>31</UID>
-            <TaskUID>44</TaskUID>
-            <ResourceUID>2</ResourceUID>
+            <TaskUID>49</TaskUID>
+            <ResourceUID>3</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-05-04T16:59:00</Finish>
+            <Finish>2020-05-05T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT56H0M0S</RemainingWork>
+            <RemainingWork>PT64H0M0S</RemainingWork>
             <Start>2020-04-28T08:00:00</Start>
             <Stop>2020-04-28T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT56H0M0S</Work>
+            <Work>PT64H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>32</UID>
-            <TaskUID>45</TaskUID>
-            <ResourceUID>3</ResourceUID>
-            <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-05-04T16:59:00</Finish>
-            <HasFixedRateUnits>1</HasFixedRateUnits>
-            <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT56H0M0S</RemainingWork>
-            <Start>2020-04-28T08:00:00</Start>
-            <Stop>2020-04-28T08:00:00</Stop>
-            <Units>1</Units>
-            <Work>PT56H0M0S</Work>
-        </Assignment>
-        <Assignment>
-            <UID>33</UID>
-            <TaskUID>46</TaskUID>
+            <TaskUID>50</TaskUID>
             <ResourceUID>4</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
             <Finish>2020-06-09T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT168H0M0S</RemainingWork>
-            <Start>2020-05-20T08:00:00</Start>
-            <Stop>2020-05-20T08:00:00</Stop>
+            <RemainingWork>PT144H0M0S</RemainingWork>
+            <Start>2020-05-23T08:00:00</Start>
+            <Stop>2020-05-23T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT168H0M0S</Work>
+            <Work>PT144H0M0S</Work>
         </Assignment>
         <Assignment>
-            <UID>34</UID>
-            <TaskUID>47</TaskUID>
+            <UID>33</UID>
+            <TaskUID>51</TaskUID>
             <ResourceUID>2</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
             <Finish>2020-06-09T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT168H0M0S</RemainingWork>
-            <Start>2020-05-20T08:00:00</Start>
-            <Stop>2020-05-20T08:00:00</Stop>
+            <RemainingWork>PT144H0M0S</RemainingWork>
+            <Start>2020-05-23T08:00:00</Start>
+            <Stop>2020-05-23T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT168H0M0S</Work>
+            <Work>PT144H0M0S</Work>
         </Assignment>
         <Assignment>
-            <UID>35</UID>
-            <TaskUID>48</TaskUID>
+            <UID>34</UID>
+            <TaskUID>52</TaskUID>
             <ResourceUID>1</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
             <Finish>2020-06-09T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT168H0M0S</RemainingWork>
-            <Start>2020-05-20T08:00:00</Start>
-            <Stop>2020-05-20T08:00:00</Stop>
+            <RemainingWork>PT144H0M0S</RemainingWork>
+            <Start>2020-05-23T08:00:00</Start>
+            <Stop>2020-05-23T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT168H0M0S</Work>
+            <Work>PT144H0M0S</Work>
         </Assignment>
         <Assignment>
-            <UID>36</UID>
-            <TaskUID>49</TaskUID>
+            <UID>35</UID>
+            <TaskUID>53</TaskUID>
             <ResourceUID>4</ResourceUID>
             <PercentWorkComplete>0</PercentWorkComplete>
-            <Finish>2020-06-16T16:59:00</Finish>
+            <Finish>2020-06-12T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT56H0M0S</RemainingWork>
+            <RemainingWork>PT24H0M0S</RemainingWork>
             <Start>2020-06-10T08:00:00</Start>
             <Stop>2020-06-10T08:00:00</Stop>
             <Units>1</Units>
-            <Work>PT56H0M0S</Work>
+            <Work>PT24H0M0S</Work>
+        </Assignment>
+        <Assignment>
+            <UID>36</UID>
+            <TaskUID>2</TaskUID>
+            <ResourceUID>-65535</ResourceUID>
+            <PercentWorkComplete>44</PercentWorkComplete>
+            <ActualWork>PT176H0M0S</ActualWork>
+            <Finish>2020-05-20T16:59:00</Finish>
+            <HasFixedRateUnits>1</HasFixedRateUnits>
+            <FixedMaterial>0</FixedMaterial>
+            <RemainingWork>PT224H0M0S</RemainingWork>
+            <Start>2020-04-01T08:00:00</Start>
+            <Units>1</Units>
+            <Work>PT400H0M0S</Work>
         </Assignment>
         <Assignment>
             <UID>37</UID>
-            <TaskUID>30</TaskUID>
+            <TaskUID>15</TaskUID>
             <ResourceUID>-65535</ResourceUID>
-            <PercentWorkComplete>73</PercentWorkComplete>
-            <ActualWork>PT40H52M48S</ActualWork>
+            <PercentWorkComplete>9</PercentWorkComplete>
+            <ActualWork>PT25H55M12S</ActualWork>
+            <Finish>2020-05-22T16:59:00</Finish>
+            <HasFixedRateUnits>1</HasFixedRateUnits>
+            <FixedMaterial>0</FixedMaterial>
+            <RemainingWork>PT262H4M48S</RemainingWork>
+            <Start>2020-04-17T08:00:00</Start>
+            <Units>1</Units>
+            <Work>PT288H0M0S</Work>
+        </Assignment>
+        <Assignment>
+            <UID>38</UID>
+            <TaskUID>16</TaskUID>
+            <ResourceUID>-65535</ResourceUID>
+            <PercentWorkComplete>100</PercentWorkComplete>
+            <ActualWork>PT8H0M0S</ActualWork>
+            <Finish>2020-04-17T16:59:00</Finish>
+            <HasFixedRateUnits>1</HasFixedRateUnits>
+            <FixedMaterial>0</FixedMaterial>
+            <Start>2020-04-17T08:00:00</Start>
+            <Units>1</Units>
+            <Work>PT8H0M0S</Work>
+        </Assignment>
+        <Assignment>
+            <UID>39</UID>
+            <TaskUID>34</TaskUID>
+            <ResourceUID>-65535</ResourceUID>
+            <PercentWorkComplete>100</PercentWorkComplete>
+            <ActualWork>PT56H0M0S</ActualWork>
             <Finish>2020-04-07T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT15H7M12S</RemainingWork>
             <Start>2020-04-01T08:00:00</Start>
             <Units>1</Units>
             <Work>PT56H0M0S</Work>
         </Assignment>
         <Assignment>
-            <UID>38</UID>
-            <TaskUID>32</TaskUID>
+            <UID>40</UID>
+            <TaskUID>36</TaskUID>
             <ResourceUID>-65535</ResourceUID>
-            <PercentWorkComplete>46</PercentWorkComplete>
-            <ActualWork>PT25H45M36S</ActualWork>
+            <PercentWorkComplete>100</PercentWorkComplete>
+            <ActualWork>PT56H0M0S</ActualWork>
             <Finish>2020-04-07T16:59:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
-            <RemainingWork>PT30H14M24S</RemainingWork>
             <Start>2020-04-01T08:00:00</Start>
             <Units>1</Units>
             <Work>PT56H0M0S</Work>
