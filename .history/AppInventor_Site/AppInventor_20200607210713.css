@@ -1,0 +1,131 @@
+.titulos{
+    color: black;
+    size: 16px;
+    font-family: Montserrat;
+    margin: 2rem 0rem;
+}
+
+a{
+    text-decoration: none;
+    color: #8F3399;
+}
+
+.text{
+    color: black;
+    text-decoration: none;
+}
+
+#menu_chapeuzinho{
+    width: 80%;
+}
+
+.menu_chapeu {
+    margin-top: 3rem;
+    display: flex;
+    justify-content: center;
+    height: 200px;
+}
+
+.navigation{  
+    width: 100%;
+    list-style: none;
+    text-align: center;
+    height: 20px;
+    line-height: 20px;
+}
+#sub_banner{
+    background-color: #A4CE47;
+    text-align: center;
+    box-shadow: 0px -3px 0px rgba(0, 0, 0, 0.1) inset;
+    min-height: 10px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    color: #FFF;
+}
+#logo_chapeu {
+    height: 150px;
+    border-radius: 50%;
+}
+#nav li {
+    list-style: none;
+    display: inline-block;
+}
+#nav a {
+    color: #A4CE47;
+    display: block;
+    font-family: arial;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0;
+    padding: 9px 18px 9px;
+    text-decoration: none;
+}
+img { 
+    display: inline-block;
+    vertical-align: middle;
+}
+.row {
+    padding: 40px;
+    
+}
+.espacar_acima {
+    margin-top: 15px;
+}
+h3{
+    font-family: 'Raleway';
+    font-size: 26px;
+    text-transform: none;
+}
+p {
+    font-size: 18px;
+    font-weight: normal;
+    font-family: inherit;
+    line-height: 1.6;
+    margin-bottom: 1.25rem;
+    text-rendering: optimizeLegibility;
+}
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 12rem;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+
+.hvr-float {
+    display: inline-block;
+    vertical-align: middle;
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease-out;
+  }
+  .hvr-float:hover,
+  .hvr-float:focus,
+  .hvr-float:active {
+    transform: translateY(-8px);
+  }
+
+  /* Grow */
+.hvr-grow {
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transition-duration: 0.3s;
+    transition-property: transform;
+}
+
+.hvr-grow:hover,
+.hvr-grow:focus,
+.hvr-grow:active {
+    transform: scale(1.03);
+}
+
