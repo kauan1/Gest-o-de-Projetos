@@ -1,6 +1,8 @@
 .titulos{
     color: black;
     size: 16px;
+    font-family: Montserrat;
+    margin: 2rem 0rem;
 }
 
 a{
@@ -14,10 +16,14 @@ a{
 }
 
 #menu_chapeuzinho{
-    text-align: center;
-    height: 200px;
     width: 80%;
-    margin: 4%;
+}
+
+.menu_chapeu {
+    margin-top: 3rem;
+    display: flex;
+    justify-content: center;
+    height: 200px;
 }
 
 .navigation{  
@@ -26,7 +32,6 @@ a{
     text-align: center;
     height: 20px;
     line-height: 20px;
-    display: inline-block;
 }
 #sub_banner{
     background-color: #A4CE47;
@@ -40,7 +45,8 @@ a{
     color: #FFF;
 }
 #logo_chapeu {
-    height: 200px;
+    height: 150px;
+    border-radius: 50%;
 }
 #nav li {
     list-style: none;
@@ -80,3 +86,46 @@ p {
     margin-bottom: 1.25rem;
     text-rendering: optimizeLegibility;
 }
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 12rem;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+
+.hvr-float {
+    display: inline-block;
+    vertical-align: middle;
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease-out;
+  }
+  .hvr-float:hover,
+  .hvr-float:focus,
+  .hvr-float:active {
+    transform: translateY(-8px);
+  }
+
+  /* Grow */
+.hvr-grow {
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transition-duration: 0.3s;
+    transition-property: transform;
+}
+
+.hvr-grow:hover,
+.hvr-grow:focus,
+.hvr-grow:active {
+    transform: scale(1.03);
+}
+
